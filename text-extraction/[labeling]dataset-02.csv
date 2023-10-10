@@ -1,8 +1,8 @@
 id_slang,slang,text,label,char_count
-75,anda,"Diría no importa, tienes razón pero anda vete",0,45
+75,anda,"Diría no importa, tienes razón pero anda vete",2,45
 903,huacha,El patriotismo es la peor de las huachaferías,0,45
 382,chico,"No digas maricas, eso ofende dijo el chico",0,45
-2212,pendejo,"- Yo me hago el loco, quiero decir el pendejo",0,45
+2212,pendejo,"- Yo me hago el loco, quiero decir el pendejo",2,45
 382,chico,Página 136  La marihuana y los chicos guapos,0,45
 1284,paco,¿Cuánto cuesta un paco? le preguntó Joaquín,0,45
 1237,negro,"Téllez lo agarró del brazo: nos íbamos, negro",0,45
@@ -146,7 +146,7 @@ id_slang,slang,text,label,char_count
 815,gaseosa,(Ríe forzado) He comprado pollito y una gaseosa,0,47
 1505,punto,Lo Página 217  he entrevistado una vez y punto,0,47
 2103,chicha,Pidió una jarra de chicha y la bebieron parados,0,47
-2244,chibolo,"cuidado chibolo, tienes que aprender a respetar",0,47
+2244,chibolo,"cuidado chibolo, tienes que aprender a respetar",3,47
 1948,zapatilla,Se le habían metido piedritas en las zapatillas,0,47
 2176,flaco,¡Pero si a ese flaco puedes matarlo! exclamó,0,47
 1432,piojo,(El piojo del enfermo se reproduce de otro modo,0,47
@@ -160,7 +160,7 @@ id_slang,slang,text,label,char_count
 893,hermano,"Ladrón que roba a ladrón, hermano, ya sabes qué",0,47
 591,cuero,Los dos se sentaron en un viejo sillón de cuero,0,47
 1875,vieja,Vez que veo a una vieja me acuerdo de mi abuela,0,47
-668,el deshueve,"Sería el deshueve si te animas a venir, Joaquín",0,47
+668,el deshueve,"Sería el deshueve si te animas a venir, Joaquín",1,47
 174,burro,EL BURRO:  No sabía que teníamos que ir al Lolo,0,47
 1875,vieja,"Elena, encima de la vieja ley, agrega su bondad",0,47
 1864,vara,"(Le mete un golpe con la vara, lo tira al suelo",0,47
@@ -248,7 +248,7 @@ id_slang,slang,text,label,char_count
 75,anda,Ya desmonta y entra a la casa con andar pausado,0,47
 345,chancho,"Eres un chancho gritó Rocío, también riéndose",0,47
 513,cole,Pero mis recuerdos del colegio son maravillosos,0,47
-2244,chibolo,"¿Cuál es tu problema, chibolo? preguntó ella",0,47
+2244,chibolo,"¿Cuál es tu problema, chibolo?",3,47
 2220,poncho,Se levantó secándose las lágrimas con el poncho,0,47
 636,depa,Luis Felipe y Joaquín salieron del departamento,0,47
 1602,roncan,Joaquín no soportó escuchar a su padre roncando,0,47
@@ -263,7 +263,7 @@ id_slang,slang,text,label,char_count
 2115,habla,Dios que habla significa el nombre de este río,0,48
 1871,verde,Los alrededores verdeaban de árboles y alfalares,0,48
 382,chico,No es la primera vez que me acuesto con un chico,0,48
-2285,mechar,"¿No sabes mechar? dijo Luis Felipe, sonriendo",0,48
+2285,mechar,¿No sabes mechar?,2,48
 1179,mi pata,Pero después se hizo mi pata y cambió de maneras,0,48
 258,cantar,"Todos cantaron Happy birthday, menos Luis Felipe",0,48
 75,anda,-¿Ese que anda con uniforme? - insistió la mujer,0,48
@@ -380,7 +380,7 @@ id_slang,slang,text,label,char_count
 2185,gringo,"Lo estrictos que son los gringos, habrase visto",0,48
 1721,taco,Alberto volvió a hacer sonar los tacones y salió,0,48
 2294,plata,"A ver quién le debe plata a quién, malagradecido",0,48
-935,huevas,"Trepa de una vez que ya está bien cogido, huevas",0,48
+935,huevas,"Trepa de una vez que ya está bien cogido, huevas",3,48
 288,caro,"Hay dos, uno caro y otro barato dijo Ambrosio",0,48
 1954,blanca,"Yo por carne blanca y tiernecita, trabajo gratis",0,48
 1876,viejo,No sé si sabías que a mi viejo le dio un infarto,0,49
@@ -461,7 +461,7 @@ id_slang,slang,text,label,char_count
 382,chico,¿Desde cuándo te gustan los chicos? le preguntó,0,49
 265,capo,A los doce o catorce pedruscos llegaba el caporal,0,49
 1575,regla,-Todos creemos en el reglamento -dijo el capitán-,0,49
-1969,chamba,MISTERIO:  Yo no voy a decir nada y por la chamba,0,49
+1969,chamba,Yo no voy a decir nada y por la chamba,2,49
 636,depa,"Poco después, llegaron al departamento de Augusto",0,49
 2115,habla,Comprendieron de inmediato que hablaba a la mujer,0,49
 2223,rosquete,"Se está moviendo, a lo mejor es un gallo rosquete",0,49
@@ -533,7 +533,7 @@ id_slang,slang,text,label,char_count
 1876,viejo,"Joaquín estaba a su lado, ojeando un Caretas viejo",0,50
 459,chup,Joaquín le bajó el pantalón del buzo y se la chupó,0,50
 959,injerto,"El injerto resollaba, emitía grititos destemplados",0,50
-216,cagada,Querían hacerle la cagada a los gorilas del barrio,0,50
+216,cagada,Querían hacerle la cagada a los gorilas del barrio,3,50
 2127,alucina,Dicen que es enorme y que va una gente alucinante,0,50
 1393,pescar,Sería graciosísimo que nos pescara aquí a los tres,0,50
 2115,habla,"Debían vigilarlos, pues no me hablaron desde fuera",0,50
@@ -664,7 +664,7 @@ id_slang,slang,text,label,char_count
 212,caer,Nos van a caer ahí de todas maneras dijo Santiago,0,51
 1502,puntas,Además hay varias puntas que pueden ser de la barra,0,51
 1968,causa,  ¿Quién es Misterio?    Un causa,0,51
-47,roche,Y uno se puede pichanguear sin roche dijo Gustavo,0,51
+47,roche,Y uno se puede pichanguear sin roche,2,51
 548,concha,"(Va hacia CARLOS) A ti te quería ver, conchatumadre",0,51
 513,cole,¡No! ¡En colegio! insistía enérgicamente el cholo,0,51
 1669,serrano,"Los serranos tienen mala suerte, les ocurre lo peor",0,51
@@ -701,12 +701,12 @@ id_slang,slang,text,label,char_count
 661,duro,"Conchasumadre, estos mosquitos muerden duro dijo",0,51
 2303,tela,"Cortes de tela floreada, aretes,  sortijas, dulces",0,51
 893,hermano,"¿Quién podría cuidarte, hermano? Te contaremos todo",0,51
-2244,chibolo,(Ríen) ¿Y tú?  YUTAY:  Estoy esperando a mi chibolo,0,51
+2244,chibolo,Estoy esperando a mi chibolo,2,51
 319,chacra,"Corre, atraviesa una chacra pisoteando los sembríos",0,51
 2115,habla,"Continuaron avanzando hacia las cuadras, sin hablar",0,51
 591,cuero,"en eso, zum, otra vez los pantalones de cuero negro",0,51
 893,hermano,"¡Esta es una opa! ¡Sucia, babienta! No sé, hermano",0,51
-2015,soroche,"Le había dao el mal de la puna, que digo el soroche",0,51
+2015,soroche,"Le había dao el mal de la puna, que digo el soroche",2,51
 402,chingana,"Me llevaba a una chingana y me decía: ""¿qué tomas?""",0,51
 1111,mano,"Hola, Paco le dijo Juan Ignacio, y le dio la mano",0,51
 1429,pinta,Caía sobre la manta una lluvia verde a pintas rojas,0,51
@@ -732,7 +732,7 @@ id_slang,slang,text,label,char_count
 1098,mancha,¿vas en mancha?  MISTERIO:  Voy solo o con Caradura,0,51
 942,huevón,"Eso mismo dicen todos los coqueros de Lima, huevón",0,51
 243,campana,77  78  El día que llegamos repicaban las campanas,0,51
-2250,por las puras,"Pero a mí no me gusta mecharme por las puras, papi",0,51
+2250,por las puras,"Pero a mí no me gusta mecharme por las puras, papi",2,51
 2115,habla,Luis Felipe prendió un cigarrillo y siguió hablando,0,51
 1237,negro,"Sería el negro Céspedes, a ése no le  importa nada",0,51
 382,chico,"Chau, chicos dijo Rocío, antes de bajar del carro",0,51
@@ -785,7 +785,7 @@ id_slang,slang,text,label,char_count
 2310,volar,"Mejor entremos, que acá se puede volar la rica coca",0,51
 1111,mano,"Oye, ¿qué te pasa? le dijo, cogiéndolo de la mano",0,51
 61,ahorita,"""¿Y si me le declaro ahorita mismo?"", pensó Alberto",0,51
-935,huevas,"¿Qué esperas, huevas? Yo la cojo y me como las alas",0,51
+935,huevas,"¿Qué esperas, huevas? Yo la cojo y me como las alas",3,51
 1163,medias,"Poco después, un vigilante abrió la puerta a medias",0,51
 2115,habla,"¿A quién, de qué me hablan? dijo el señor Lozano",0,51
 797,frío,El frío de la cárcel se le había metido a los huesos,0,52
@@ -835,7 +835,7 @@ id_slang,slang,text,label,char_count
 2294,plata,"Si te doy la plata, ¿me la metes? preguntó Joaquín",0,52
 513,cole,-No me convence del todo ese colegio -dijo la madre-,0,52
 1253,nota,"Después, revisó cuidadosamente las libretas de notas",0,52
-2044,lisura,"Raúl era moreno, decía lisuras y escupía a cada rato",0,52
+2044,lisura,"Raúl era moreno, decía lisuras y escupía a cada rato",3,52
 275,carajo,"¿Qué te pasa, carajo? dijo, alejándose de Joaquín",0,52
 1427,pinga,¿Le tocaste la pinga? ¿Sí o no? Joaquín no contestó,0,52
 513,cole,""" Esos domingos, el tercer año era dueño del colegio",0,52
@@ -888,7 +888,7 @@ id_slang,slang,text,label,char_count
 446,chotear,¿No jodas que te chotearon de la universidad? dijo,0,52
 2289,paja,La camarada ya explicó susurró la voz de pajarito,0,52
 1111,mano,Luego se llevó las manos a la cara y rompió a llorar,0,52
-46,jato,siempre que voy desde mi jato al estadio me lo pongo,0,52
+46,jato,siempre que voy desde mi jato al estadio me lo pongo,2,52
 2136,cabro,"Si quieres ver cabros, mejor vamos a la Javier Prado",0,52
 898,hincha,"La hinchada estará presente, aunque no vayas primero",0,52
 793,fresco,"Vamos al fresco dijo, y abrió una puerta corrediza",0,52
@@ -927,7 +927,7 @@ id_slang,slang,text,label,char_count
 2291,papa,"Y ellos, ¿no ves?, son los papachas, aquí, en Abancay",0,53
 206,cacho,"¿Qué tal mi cachorro, Florita? preguntó Luis Felipe",0,53
 1689,socio,"Quería hacerme su socio, clavarme acciones, mil cosas",0,53
-2236,tranqui,Estos tombos de mierda no me dejan chambear tranquilo,0,53
+2236,tranqui,Estos tombos de mierda no me dejan chambear tranquilo,3,53
 793,fresco,"Fresco, caracho, que le reviente los granos su abuela",0,53
 1876,viejo,"Perdonemos al Viejo, ya que por él conociste el Cuzco",0,53
 1939,zambo,Zavalita y el zambo Ambrosio conversan en La Catedral,0,53
@@ -1038,7 +1038,7 @@ id_slang,slang,text,label,char_count
 1046,loco,"El día siguiente, en el sol», Rosendo conoció al Loco",0,54
 61,ahorita,No me hagas acordar que ahorita buitreo dijo Gustavo,0,54
 2223,rosquete,Solo lo que dicen los rosquetes del Opus Dei está bien,0,54
-174,burro,"Burro, lleva al chino Pepe a la jato, que no se demore",0,54
+174,burro,"Burro, lleva al chino Pepe a la jato, que no se demore",2,54
 1046,loco,"No se lo diremos a la Teté, para que no te vuelva loco",0,54
 289,carpa,Entraron a carpas separadas y se pusieron ropa de baño,0,54
 126,batán,El dueño se hallaba moliendo ají en un batán de piedra,0,54
@@ -1149,7 +1149,7 @@ id_slang,slang,text,label,char_count
 2115,habla,"Habla, habla y yo sé lo que le está pasando por adentro",0,55
 893,hermano,"Mañana, antes de la partida del Hermano habló Chauca",0,55
 1993,picón,"Eres un picón, un picón de mierda gritó Juan Ignacio",0,55
-2044,lisura,  ¿Qué dijimos de las lisuras?    Perdón,0,55
+2044,lisura,  ¿Qué dijimos de las lisuras?,3,55
 2115,habla,"""Lo raro, pensó Alberto, es que tampoco le habla al Boa",0,55
 2115,habla,"Qué lindo habla mi Joaquín, caracho murmuró Maricucha",0,55
 941,huevo,"Dos kilos es un huevo de coca, Augustito dijo Alfonso",0,55
@@ -1312,12 +1312,12 @@ id_slang,slang,text,label,char_count
 2103,chicha,"El alma de alegra de chicha, de color, de voz y de grano",0,56
 1402,picar,"Era un hombre robusto, de ojos achinados y mirada picara",0,56
 2205,mote,Puede traducirse por Gran padre: es un mote admirativo,0,56
-221,calata,Que se achicharren estas calatas sinvergüenzas murmuró,0,56
+221,calata,Que se achicharren estas calatas sinvergüenzas,3,56
 958,inge,"Que el ingeniero creyera lo que quisiera, pensaba Amalia",0,56
 846,guarda,Ella sacó la correa que tenía guardada debajo de su cama,0,56
 1894,vuelta,"Al fin, el coche se inmovilizó después de muchas vueltas",0,56
 1405,pichicata,Y eso que en mi tiempo no corría la pichicata como ahora,0,56
-2285,mechar,"¿De verdad quieren mechar? preguntó Sixto, sorprendido",0,56
+2285,mechar,¿De verdad quieren mechar?,3,56
 958,inge,"Alberto pensó: ""estudiaré mucho y seré un buen ingeniero",0,56
 1695,soli,Un millón y medio de soles para uno solito dijo Darío,0,56
 382,chico,En cualquier momento se lo levantan y le rompen el chico,0,56
@@ -1404,7 +1404,7 @@ id_slang,slang,text,label,char_count
 777,flete,"Yo tampoco, pero a los patitas como yo nos dicen fletes",0,56
 1111,mano,"Ay, qué burra dijo ella, llevándose una mano al pecho",0,56
 1237,negro,Un negro vuelo de aves carniceras planea sobre la cuesta,0,56
-668,el deshueve,"Es que Lima es el deshueve, compadre dijo Juan Carlos",0,56
+668,el deshueve,"Es que Lima es el deshueve, compadre",1,56
 261,caña,"451 Cuando Demetrio llegaba sin cañazo, le armaba pleito",0,56
 2115,habla,"No entiendo de qué habla dijo el tipo, con voz flojona",0,56
 2179,fuiste,"Fuiste mi salvación, le decía Trinidad, dime qué quieres",0,56
@@ -1413,7 +1413,7 @@ id_slang,slang,text,label,char_count
 434,cholita,"Muy bien, mi cholita, muy bien dijo Alfonso, sonriendo",0,56
 414,chispas,"No necesitas usarlo, si te jode Ancón dijo el Chispas",0,56
 61,ahorita,"A ver, dime, ¿adónde está mi papá ahorita? preguntó él",0,56
-911,huaico,Ojalá venga un huaico y los entierre por cojudos gritó,0,56
+911,huaico,Ojalá venga un huaico y los entierre por cojudos,3,56
 513,cole,"Te va a encantar tu nuevo colegio, mi cielo dijo ella",0,56
 2331,porfa,"¿Estará Gonza por ahí, porfa? Gracias, señora, un besóte",0,56
 1876,viejo,"Son nobles, pero también avaros, aunque no como el Viejo",0,56
@@ -1459,7 +1459,7 @@ id_slang,slang,text,label,char_count
 661,duro,"Bueno, al comienzo fue duro, pero ya pasó lo peor dijo",0,57
 290,carpeta,» Luego arrancó la hoja y la metió en la carpeta de Jorge,0,57
 2115,habla,A lo mejor lo hicieron hablar a Martínez dijo Santiago,0,57
-74,ampayar,¿No jodas que lo ampayaron comprando coca? dijo Gustavo,0,57
+74,ampayar,¿No jodas que lo ampayaron comprando coca?,3,57
 1954,blanca,"La sombra blanca que está al frente se mueve, se aproxima",0,57
 2161,cojudo,"No se ha embrutecido, no eres un cojudo, piensa, ven, ven",0,57
 2176,flaco,Toma tus cinco lucas y arranca nomás dijo el más flaco,0,57
@@ -1660,7 +1660,7 @@ id_slang,slang,text,label,char_count
 75,anda,La aglomeración lo obligaba a andar despacio, se asfixiaba,0
 1197,mocoso,"Al verme entrar, el chino me gritó: largo de aquí, mocoso""",0,58
 1111,mano,Se pusieron de pie y entraron al cuarto cogidos de la mano,0,58
-2250,por las puras,"En el Perú, uno es militar por las puras huevas del diablo",0,58
+2250,por las puras,"En el Perú, uno es militar por las puras huevas del diablo",3,58
 1505,punto,"A las tres en punto, bajaron del carro y tocaron el timbre",0,58
 23,cintura,Luego se puso de pie y se enrolló una toalla en la cintura,0,58
 2289,paja,Mimi se quitó el sombrero de paja y lo usó para abanicarse,0,58
@@ -1782,7 +1782,7 @@ id_slang,slang,text,label,char_count
 265,capo,"Viendo y viendo, el más sospechoso ha resultado ese caporal",0,59
 2182,gallina,Apuntaba a las gallinas diciendo que les daría en la cabeza,0,59
 265,capo,Luego podía venir por esa senda un nuevo grupo de caporales,0,59
-942,huevón,el periodismo ha hecho un chongo con el caso del huevón ese,0,59
+942,huevón,el periodismo ha hecho un chongo con el caso del huevón ese,3,59
 1601,roncador,"¿Cuántos vienen? -Siete, pue el pobre Roncador está muy mal",0,59
 1111,mano,Página 315  Yo te dejo los condones en un lugar a la mano,0,59
 75,anda,Siempre andabas buscando emociones fuertes dijo Carlitos,0,59
@@ -1936,7 +1936,7 @@ id_slang,slang,text,label,char_count
 2115,habla,"Oye, no ves que estoy hablando contigo, qué te pasa, piojoso",0,60
 661,duro,"Desnuda, ya no parecía tan fea, todavía tenía el cuerpo duro",0,60
 1441,piraña,"-De acuerdo - dijo Calzada- Cállense, que ahí está el Piraña",0,60
-46,jato,Te van a llevar hasta tu jato Los muchachos son respetuosos,0,60
+46,jato,Te van a llevar hasta tu jato Los muchachos son respetuosos,1,60
 2035,pisco,Luego pidió a su asistente: «Sírveme un buen trago de pisco»,0,60
 258,cantar,"De noche, los presos solían cantar, especialmente los cholos",0,60
 788,franco,"Se lo robé al doctor Franco dijo ella, haciendo una mueca",0,60
@@ -2005,7 +2005,7 @@ id_slang,slang,text,label,char_count
 136,bestia,"Cinco libras por las puras, un papelón bestial dijo Popeye",0,61
 1643,sanguche,Caminaron hasta una sanguchería frente a la clínica Americana,0,61
 402,chingana,"Fuimos a una chingana y ahí nos dijo: ""es el golpe del siglo""",0,61
-2050,chibolos,además los chibolos de la barra siempre pican para un chancay,0,61
+2050,chibolos,además los chibolos de la barra siempre pican para un chancay,3,61
 2174,fallo,El fallo debe aparecer en el Diario oficial el lunes o martes,0,61
 1111,mano,Teresa dio un paso atrás y la mano quedó vacilando en el aire,0,61
 2204,mosca,"Varios moscardones cruzaron el corredor, de un extremo a otro",0,61
@@ -2049,7 +2049,7 @@ id_slang,slang,text,label,char_count
 1128,marico,Vamos a botar estos libros de maricones ahorita mismo dijo,0,61
 414,chispas,Déjate de vulgaridades delante de la mocosa dijo el Chispas,0,61
 1954,blanca,"Pero ella era blanca y de mejillas encendidas, de ojos azules",0,61
-1008,la cagada,"Mierda, la cagada, de repente me has dejado embarazada dijo",0,61
+1008,la cagada,"Mierda, la cagada, de repente me has dejado embarazada",3,61
 212,caer,"Yo quiero caerle a una chica, pero no me atrevo dijo Miguel",0,61
 2115,habla,! ¿Tú crees que el Padre reclamaría por ti? siguió hablando,0,61
 2125,agarrado,"Todavía no me tiene agarrado nadie dijo él, desperezándose",0,61
@@ -2061,7 +2061,7 @@ id_slang,slang,text,label,char_count
 1894,vuelta,-¿Vamos a dar una vuelta? Pluto no vendrá antes de media hora,0,61
 312,cercado,Abancay está cercado por las tierras de la hacienda Patibamba,0,61
 1318,parado,"Tus cabellos están revueltos, casi parados; estás bien pálido",0,61
-2244,chibolo,"¿Qué te pasa, chibolo? ¿Por qué estás tan muñequeado? No sé",0,61
+2244,chibolo,"¿Qué te pasa, chibolo? ¿Por qué estás tan muñequeado?",2,61
 261,caña,"Bajada por el camino de los cañaverales, buscando el gran río",0,61
 1875,vieja,"Estaba aterrada de que fueras vieja, fea, de que fueras sucia",0,61
 772,firme,Con la ley se parte la verdá más firme como acero mal templao,0,61
@@ -2121,7 +2121,7 @@ id_slang,slang,text,label,char_count
 1111,mano,Era sólido para su ancianidad y más aún para sus manos inermes,0,62
 1535,quinta,"Lo suelta, lo ve cruzar la entrada de la Quinta como un bólido",0,62
 2115,habla,"Nunca más lo vi, pero una vez oí hablar de él dice Ambrosio",0,62
-2154,chongo,"No te preocupes, hombre, que la coca de Chongo no deja resaca",0,62
+2154,chongo,"No te preocupes, hombre, que la coca de Chongo no deja resaca",3,62
 513,cole,Joaquín corrió y subió a un colectivo con destino a Miraflores,0,62
 2226,seco,"Troncos gruesos y secos, formaban las paredes de un entarimado",0,62
 435,cholo,-¿No te importa que vaya a un colegio de cholos? -dijo Alberto,0,62
@@ -2225,7 +2225,7 @@ id_slang,slang,text,label,char_count
 1419,pieza,Una vez encerró en su pieza a una de las muchachas más bonitas,0,62
 1355,pega,"¿Quién pega? preguntó Luis Felipe, mirando a Dioni y Joaquín",0,62
 1093,mamerto,-Esperaba a don Mamerto Reyes pa arrear un ganadito a la costa,0,62
-221,calata,"Es la primera vez que veo una revista de calatas, mami dijo",0,62
+221,calata,Es la primera vez que veo una revista de calatas,2,62
 2141,cana,Todos cargaban fusil y Benito tenía cananas sobre los costados,0,62
 1894,vuelta,"Alberto dio media vuelta y, después de dar unos pasos, regresó",0,62
 75,anda,Déjate de adefesios y anda de una vez dijo el tío Clodomiro,0,62
@@ -2257,7 +2257,7 @@ id_slang,slang,text,label,char_count
 2103,chicha,"La chicha da vueltas, en calabazas lustrosas, regalando a todos",0,63
 2294,plata,197 Estaba en un marco de plata labrada colocado sobre una mesa,0,63
 23,cintura,Joaquín cogió a Tati de la cintura y bailaron una canción lenta,0,63
-47,roche,"¿Estás en roche con tus viejos? Sí, mis viejos son una ladilla",0,63
+47,roche,¿Estás en roche con tus viejos?,2,63
 1128,marico,Eso me pasa por ir de cacería con maricones dijo Luis Felipe,0,63
 1129,maricón,"Pero el muy porfiado no quiso, es un maricón, para hablar claro",0,63
 2185,gringo,"Esta mañana estuve con los gringos dijo, por fin, don Fermín",0,63
@@ -2524,7 +2524,7 @@ id_slang,slang,text,label,char_count
 2121,chupar,"Al día siguiente, se la quise chupar de nuevo, pero ya no se dejó",0,65
 2220,poncho,"El viejo, entretanto, miraba el acero rojo y el poncho desgarrado",0,65
 1413,picho,Charitín y yo hemos culeado como dos pichoncitos de luna de miel,0,65
-216,cagada,No vaya a tener sida el maricón y ahí sí la cagada dijo Joaquín,0,65
+216,cagada,No vaya a tener sida el maricón y ahí sí la cagada,3,65
 2161,cojudo,"No piedras, pero sí que te pondrías medio cojudo y se ruborizó",0,65
 1111,mano,"Las cosas se resuelven mejor y más rápido con mano dura, Bermúdez",0,65
 1093,mamerto,Insistió:  -¿Qué haré aura? Seguro que don Mamerto contrató otro,0,65
@@ -2543,7 +2543,7 @@ id_slang,slang,text,label,char_count
 2310,volar,"Lleva fatigadas las pequeñas alas, no podrá volar más; deténte ya",0,65
 1575,regla,"Lo siento, señor Camino, pero así es el reglamento de disciplina",0,65
 1111,mano,Después salió el doctor y me puso una mano aquí dice Ambrosio ,0,65
-47,roche,¿No te dije que no había roches? ¿La probamos? preguntó Joaquín,0,65
+47,roche,¿No te dije que no había roches?,2,65
 1502,puntas,"Alberto se acercó en puntas de pie, indicando silencio al Esclavo",0,65
 690,en algo,"Yo ya envidiaba a la gente que creía ciegamente en algo, Carlitos",0,65
 893,hermano,"Gracias, Alfonsito dijo Tati, y besó a su hermano en la mejilla",0,65
@@ -2557,7 +2557,7 @@ id_slang,slang,text,label,char_count
 1781,tira,Ocho fusiles están tirados en el suelo y otro apoyado en la pared,0,65
 275,carajo,"No hay nada que hacer, carajo, algunos hemos nacido para triunfar",0,65
 1025,lanza,Hay que saber cuáles son las fuerzas que se va a lanzar al ataque,0,65
-1968,causa,TYSON detrás de él)  MISTERIO:  Un brindis por mi causa Caradura,0,65
+1968,causa,Un brindis por mi causa Caradura,1,65
 1267,ojal,"Voy a hacer que nos den unos cafés, ojalá esté despierta Anatolia",0,65
 893,hermano,"Tenía, como su hermano, unos ojos grandes Página 112  y celestes",0,65
 1876,viejo,"Oye, muchacho, una cosita más, disculpa la conchudez de tu viejo",0,65
@@ -2582,15 +2582,15 @@ id_slang,slang,text,label,char_count
 265,capo,Amadeo ignoraba que esos dos caporales habían abusado de su mujer,0,65
 435,cholo,"Los cholos se parecían terriblemente a los niñitos bien, Ambrosio",0,65
 797,frío,Si tiene frío y quiere que cierre la ventanilla murmuró el sambo,0,66
-2284,malcriado,"No sea malcriado, pues, joven, qué va a decir su amigo dijo ella",0,66
+2284,malcriado,"No sea malcriado, pues, joven, qué va a decir su amigo",3,66
 414,chispas,Pero el Chispas se empeñó y yo moví influencias y lo hice ingresar,0,66
 1876,viejo,A los viejos no se les pregunta la edad se rio el tío Clodomiro,0,66
 2142,cancha,"¿Quién lleva la cuenta? gritó Joaquín, al otro lado de la cancha",0,66
 1738,tanta,Se había metido tanta coca de golpe que no lograba pasar un bocado,0,66
 513,cole,"Desde el colegio ¿te acuerdas? El que la sigue la consigue, ya ves",0,66
-1046,loco,"Estas cojudas me están volviendo loco murmuró, mientras sonreía",0,66
+1046,loco,Estas cojudas me están volviendo loco,1,66
 270,carabina,Dioni puso la carabina en el cuello del animal y apretó el gatillo,0,66
-1402,picar,"Vamos a ver cómo están las gringas dijo, con una sonrisa picara",0,66
+1402,picar,Vamos a ver cómo están las gringas,1,66
 75,anda,"""Sí, me dijo, tienes un sobrino que debe andar por los cuatro años",0,66
 1111,mano,"Qué cantidad de mamacitas dijo Luis Felipe, frotándose las manos",0,66
 1738,tanta,Había tanta gente en Studio One que a duras penas se podía caminar,0,66
@@ -2606,7 +2606,7 @@ id_slang,slang,text,label,char_count
 2294,plata,"En realidad, la trocó por una carga de trigo y ocho soles en plata",0,66
 2125,agarrado,"-Se las ha agarrado conmigo -dijo Paulino, encogiéndose de hombros",0,66
 70,argolla,"Un hombre, parado al pie del poste de la argolla, manejaba la soga",0,66
-793,fresco,MISTERIO:  ¿Vamos a pelear por eso?    Qué fresco que eres,0,66
+793,fresco,¿Vamos a pelear por eso?    Qué fresco que eres,2,66
 75,anda,"Pero no, Gertrudis, no, nada de eso: fuera, anda vete, sal de aquí",0,66
 769,fija,"Illa no nombra la fija luz, la esplendente y sobrehumana luz solar",0,66
 1505,punto,- Como ustedes prefieran - dice Gamboa- Ángulo recto o seis puntos,0,66
@@ -2642,13 +2642,13 @@ id_slang,slang,text,label,char_count
 1575,regla,Entonces abrió un cajón de su escritorio y sacó una regla de metal,0,66
 258,cantar,"El poeta se puso a cantar ""ay, ay, ay"" y toda la sección lo siguió",0,66
 1575,regla,Moulbright comenzó a golpearlo en las nalgas con su regla de metal,0,66
-413,chismear,"Que la redacción entera hablara de ti, que chismearan, que rajaran",0,66
+413,chismear,"Que la redacción entera hablara de ti, que chismearan, que rajaran",3,66
 435,cholo,El cholo Urioste salió el lunes y volvió a las cuatro de la mañana,0,66
 2226,seco,La luna vuelve más amarillos el pasto seco y los delgados senderos,0,66
 472,chusco,"Recojo tu desafío y tu asqueroso insulto, de chusco le dijo Valle",0,66
 1505,punto,"Usted le habrá presentado las cosas desde su punto de vista, claro",0,66
 121,barriada,"Si esta barriada se llama 27 de Octubre en homenaje a él, más bien",0,66
-2270,chancón,"El mejor alumno, el más inteligente, el más chancón dijo Espina",0,66
+2270,chancón,"El mejor alumno, el más inteligente, el más chancón",1,66
 1876,viejo,"Y un día, en venganza, Sixto y Bashi incendiaron la casa del viejo",0,66
 2115,habla,"Me dejaron entrar con la condición de que no te haga hablar, papá",0,66
 2115,habla,"Eres increíble, mamá, no puedes pasarte un día sin hablar con Irma",0,66
@@ -2697,7 +2697,7 @@ id_slang,slang,text,label,char_count
 137,bestial,"Aunque a esa edad no te lo va a aflojar, le sacarás un plan bestial",0,67
 2305,tono,"Cuando empezó a bajar el tono del zumbido, Antero levantó el trompo",0,67
 893,hermano,"¿Lo dejará entrar usted, hermano? Lo dejaré entrar, te lo prometo",0,67
-2044,lisura,"Hablaba sin parar, de cualquier cosa, y de repente decía una lisura",0,67
+2044,lisura,"Hablaba sin parar, de cualquier cosa, y de repente decía una lisura",2,67
 1964,botar,Lo que más me amarga es que la botaran por mi culpa dijo Santiago,0,67
 2142,cancha,Comió masticando el trigo y la cancha junto con graves pensamientos,0,67
 397,chimpún,Quítenle el chimpún a ese loco de mierda gritó alguien en el baño,0,67
@@ -2765,7 +2765,7 @@ id_slang,slang,text,label,char_count
 1111,mano,"Mucho gusto, doctor dijo Joaquín, y le dio la mano al doctor Mori",0,67
 1464,planta,"Sé de mí pobre cariño, palomita, como la planta llamada siempreviva",0,67
 1339,patas,"Pero al menos debía juntarse con nosotros, siempre fuimos sus patas",0,67
-2285,mechar,"¿Tienes miedo de mechar? preguntó Luis Felipe, levantando la voz",0,67
+2285,mechar,¿Tienes miedo de mechar? ,3,67
 1355,pega,"Un día, uno de los bandoleros le quiso pegar y el Fiero lo defendió",0,67
 2288,nica,"Buenas, soy Nicanor López de Romaña, el papá de Alexandra escuchó",0,67
 1966,calato,"No hay nada más rico que bañarse calato en el río dijo, sonriendo",0,67
@@ -2810,7 +2810,7 @@ id_slang,slang,text,label,char_count
 2275,cuadrar,"Hasta que Gamboa se adelantó, hizo un gesto, y los tres se cuadraron",0,68
 414,chispas,"Había sido un mes después del matrimonio de Chispas y Cary, Zavalita",0,68
 1111,mano,"Caminaron hacia ""La Perlita"", las manos en los bolsillos, sin hablar",0,68
-1876,viejo,-Sí -dijo Alberto- Resulta raro tratarse de usted, es cosa de viejos,0
+1876,viejo,-Sí -dijo Alberto- Resulta raro tratarse de usted,0,0
 1464,planta,"La estatua del héroe parecía una planta lúgubre, impregnada de rocío",0,68
 1111,mano,"Joaquín quiso darle un abrazo, pero Alfonso le dio la mano fríamente",0,68
 891,hembrita,"¿Y qué fue de tu hembrita, rosquete? le preguntó Gustavo a Joaquín",0,68
@@ -3176,10 +3176,10 @@ id_slang,slang,text,label,char_count
 1781,tira,"Simona se puso feliz y todos, inclusive Rita, comenzaron a tirar planes",0,71
 2237,viejos,Mis viejos me van a cortar los huevos cuando se enteren dijo Alfonso,0,71
 2233,trampa,"¿Qué significaron sus triunfos? Trampas legalistas, mañas de trastienda",0,71
-48,lisuras,A veces las lisuras llegaban hasta la cocina y Símula cerraba la puerta,0,71
+48,lisuras,A veces las lisuras llegaban hasta la cocina y Símula cerraba la puerta,2,71
 2146,chapa,"me gusta como chapas, enana, se ve que de familia te viene la arrechura",0,71
 382,chico,"Bueno, chicos, sigamos con el tercer misterio del rosario dijo Foncho",0,71
-893,hermano,La gente ya sabe, las beatas y las señoras están rezando por el Hermano,0
+893,hermano,La gente ya sabe,0,0
 548,concha,"A medida que avanzaban, las pequeñas conchas vacías iban cayendo al mar",0,71
 1669,serrano,"Pero el Jaguar ha cambiado por lo del serrano, yo pesco todas las cosas",0,71
 1163,medias,"Sobre el lomo del dragón había una camisa limpia, ropa interior, medias",0,71
@@ -3249,7 +3249,7 @@ id_slang,slang,text,label,char_count
 1189,minero,Nunca pasé otro rato igual y eso que la existencia del minero es peliada,0,72
 1423,pija,"Sin bulla, lentamente, se despojó del pijama de franela azul y se vistió",0,72
 1575,regla,El año pasado me llevó a su oficina y me tiró veinte reglazos en la mano,0,72
-935,huevas,"ya ni te respondía, a mí no me gusta mechar por las huevas y tú lo sabes",0,72
+935,huevas,"ya ni te respondía, a mí no me gusta mechar por las huevas y tú lo sabes",3,72
 1876,viejo,"Te estás poniendo viejo, pensó, un madrugón y se te oxida todo el cuerpo",0,72
 1111,mano,"Si no, las elecciones podrían  estallarnos en las manos como un petardo",0,72
 1407,pichicatero,"Borrachín, pichicatero, ya lo sabía, toda la redacción me lo había dicho",0,72
@@ -3479,7 +3479,7 @@ id_slang,slang,text,label,char_count
 2236,tranqui,"El coronel puede estar tranquilo, vamos a poner en vereda a todo el mundo",0,73
 275,carajo,"-A mí me importa un carajo - dijo el desconocido-, pero no soy un imbécil",0,73
 2115,habla,"No puede volver a hablar de ese asunto, bajo pena de un gravísimo castigo",0,73
-221,calata,¿O sea que tú nunca has visto la calata de Caretas? le preguntó Joaquín,0,73
+221,calata,¿O sea que tú nunca has visto la calata de Caretas?,2,73
 1858,vago,"Subió al jeep, vio a Bermúdez hacer a la mujer un vago adiós, y partieron",0,73
 2291,papa,"Oirás pues al Papacha 26 Oblitas me dijo la moza, señalando al arpista",0,73
 2115,habla, Palacitos no tenía fin cuando hablaba de los muertos y de los condenados,0,74
@@ -3541,7 +3541,7 @@ id_slang,slang,text,label,char_count
 511,cola,¿Y si me niego a seguir colaborando? murmuró Landa en voz casi inaudible,0,74
 2176,flaco,"Pero mientras veníamos, el flaco había estado callado y con la cara amarga",0,74
 1738,tanta,"¿Por qué le tengo que preguntar tantas cosas, mami? No seas metiche, pues",0,74
-281,carcoso,"Y ahora los barristas, espero que se hayan lavado bien el cuerpo, carcosos",0,74
+281,carcoso,"Y ahora los barristas, espero que se hayan lavado bien el cuerpo, carcosos",3,74
 1066,machete,"En vano trató de hacerse a un lado o de salir, así el machete lo tasajeara",0,74
 275,carajo,"Recoge las cacas, carajo gritó, empujándolo frente a una mierda de perro",0,74
 661,duro,Su cara cetrina de rasgos duros y su amor por la tierra convencían de ello,0,74
@@ -3607,7 +3607,7 @@ id_slang,slang,text,label,char_count
 1875,vieja,La vieja decía que la íbamos a abandonar y que se iba a morir como un perro,0,75
 1875,vieja,Tu vieja le fue a dar sus quejas a la senadora por lo de San Marcos  dijo,0,75
 75,anda,"El salón me había desconcertado; lo atravesé asustado, sin saber cómo andar",0,75
-2044,lisura,"Si don Armando te escucha decir lisuras, te vas a fregar dijo Juan Manuel",0,75
+2044,lisura,"Si don Armando te escucha decir lisuras, te vas a fregar dijo Juan Manuel",3,75
 1669,serrano,"Yo era así como ustedes, un serrano zonzo, hasta que me di mi salto po allá",0,75
 642,descansar,"Como tenían que detenerse a descansar cada cierto tiempo, llegaron de noche",0,75
 275,carajo,"Es una pena, carajo, porque han sido casi treinta años de matrimonio dijo",0,75
@@ -3640,7 +3640,7 @@ id_slang,slang,text,label,char_count
 2115,habla,Luis Felipe solía ponerse de mal humor cuando su mujer hablaba del Opus Dei,0,75
 171,buitre,"El hijo del Buitre está en el gobierno, ahora es importante dijo Ambrosio",0,75
 1007,la bajada,"Tiró riendas y trotó por la bajada a toda la velocidad, que podía el novato",0,75
-2154,chongo,"Pasumachu, el profesional está embalado dijo Chongo, sobándose la barriga",0,75
+2154,chongo,"Pasumachu, el profesional está embalado",3,75
 2284,malcriado,"Oye, creo que estuve algo malcriado con tu madre, ¿no? Bueno, sí, tal vez",0,75
 1889,vivo,-Ahora vivo en Alcanfores - dijo Alberto- Estoy interno en el Leoncio Prado,0,75
 1111,mano,"El Esclavo se había tendido y permanecía inmóvil, la cabeza entre las manos",0,75
@@ -3681,7 +3681,7 @@ id_slang,slang,text,label,char_count
 1111,mano,"Por fin, sin mover la cabeza, estiró una mano y remeció a la señorita Queta",0,75
 513,cole,-¿Te acuerdas cuándo ibas a esperarme a la salida del colegio? -dijo Teresa,0,75
 1535,quinta,"En la quinta sección, poco antes de llegar a la puerta del baño, se detiene",0,75
-668,el deshueve,"¿Se puede subir hasta la cruz? Claro, allá arriba la vista es el deshueve",0,75
+668,el deshueve,"¿Se puede subir hasta la cruz? Claro, allá arriba la vista es el deshueve",1,75
 1512,putañero,"""¿Sabes lo que eres?, me contestó; un putañero, lo que se llama un putañero",0,75
 893,hermano,Se prosternó delante del Hermano y empezó a besar los extremos de su hábito,0,75
 661,duro,A él le había tocado ahora la del caucho y del modo más duro e irremediable,0,75
@@ -3843,7 +3843,7 @@ id_slang,slang,text,label,char_count
 1864,vara,Y a ella fueron a dar el Fiero y su caballo y en ella vararon como unos leños,0,77
 1392,pesado,Dióse el pesado trajín en su honor y el anciano alcalde estaba muy agradecido,0,77
 513,cole,"A la mañana siguiente, Jorge y Joaquín se encontraron en el patio del colegio",0,77
-1968,causa,¿y qué podemos hacer?    Lo que pasa es que todavía falta un causa,0,77
+1968,causa,Lo que pasa es que todavía falta un causa,2,77
 2185,gringo,Eso es una leguleyada de las más sucias y no creas que es cosa de los gringos,0,77
 1025,lanza,"Mejor habría sido ir al patio y dejarnos sueltos allí, o lanzarnos a la calle",0,77
 2115,habla,"Pero él había llegado a Rumi, esa tarde, precisamente para hablar con Rosendo",0,77
@@ -3869,13 +3869,13 @@ id_slang,slang,text,label,char_count
 2161,cojudo,"Ni cojudo, pues, yo lo que quiero es descansar un poco de la loca de tu madre",0,77
 1781,tira,"Ajustaba el cordel en la púa, ciñendo las vueltas lentamente y tirando fuerte",0,77
 1894,vuelta,"Dieron otras vueltas, observando ansiosamente a todos lados, sin encontrarlas",0,77
-2115,habla,Pero dicen que en todas las haciendas hablan de doña Felipa, que tienen miedo,0
+2115,habla,Pero dicen que en todas las haciendas hablan de doña Felipa,0,0
 2204,mosca,¿No lo ha oído nunca? No cabe ni una mosca y siguen entrando dijo Ludovico,0,77
 1658,sentar cabeza,"¿Cómo así te casas? Ya es hora de sentar cabeza, ¿no te parece? Sí, supongo",0,77
 2115,habla,"El defensor, el escribano, el juez, les decían lo mismo si lograban hablarles",0,77
 1402,picar,-No creas que hay necesidad de estudios para picar un árbol y sacarle el jugo,0,77
 265,capo,"En un momento más llegaron al tambo, situado junto a la casa de los caporales",0,77
-1965,cache,"Hoy sales de la categoría pajeros y entras a la categoría cacheritos, Joaquín",0,77
+1965,cache,Hoy sales de la categoría pajeros y entras a la categoría cacheritos,3,77
 1111,mano,"¿Con la mano de quién? ¿Con la mano de quién, dice usted? preguntó el Padre",0,77
 275,carajo,"No me dejan dormir los cacheritos, carajo dijo, y le dio los preservativos",0,77
 1267,ojal,"CLAUDIA es delicada y MISTERIO, más bien, algo violento) Ojalá no venga nadie",0,77
@@ -3973,7 +3973,7 @@ id_slang,slang,text,label,char_count
 1371,pendejada,"Pero la pendejada es que los blancos no podemos vivir sin los cholos, Joaquín",0,78
 1876,viejo,"Figúrate que el viejo iba a ir al mitin ése, Arévalo lo desanimó a última hora",0,78
 2294,plata,"Y el Manco aclaró: -Ña Casianita, la plata se la guarda onde no haiga ladrones",0,78
-48,lisuras,"¿Acaso los curas no dicen lisuras? preguntó Joaquín, con una sonrisa burlona",0,78
+48,lisuras,¿Acaso los curas no dicen lisuras?,2,78
 1299,palo,"Le pareció que iba hacia él un palo, más que un hombre, y deploró su condición",0,78
 261,caña,"Güeno, y ya sin maña, te compras dos botellas de cañazo, que harto necesitamos",0,78
 1355,pega,"Se la llevarían, le harían preguntas, le pegarían, la matarían como a Trinidad",0,78
@@ -3990,7 +3990,7 @@ id_slang,slang,text,label,char_count
 332,chamo,"General Chamorro, mucho gusto una voz enérgica, sin edad, dueña de sí misma",0,78
 345,chancho,"¡Casi te saltaban los ojos, chancho! Y tú ¡Anticristo! le dijo a Montesinos",0,78
 2115,habla,"Se habían sentado en la banca, hablaban mirando la pared del frente o el techo",0,78
-1466,platudo,"Y él: era una vivísima, se conseguirá otro platudo antes de que cante un gallo",0,78
+1466,platudo,"Y él: era una vivísima, se conseguirá otro platudo antes de que cante un gallo",2,78
 1111,mano,"Maricucha bajó la mirada, jugó con sus manos, hizo como que no había oído nada",0,78
 1875,vieja,¿Por qué en vez de ir al Zela no vamos donde la vieja Ivonne? dijo Castelano,0,78
 419,chivo,"Mucho más tarde acaso el Chipro contaría la historia, riéndose como un chivo",0,78
@@ -4051,7 +4051,7 @@ id_slang,slang,text,label,char_count
 1056,lora,"Lo de Arequipa no me asusta en absoluto, doctor Lora dijo el doctor Arbeláez",0,79
 2045,buenazo,"Ese enano es buenazo en la barra, casi no tiene músculos y sin embargo qué ágil",0,79
 61,ahorita,"¿Por qué, Joaquincito? Porque ahorita mismo mi papi te está sacando la vuelta",0,79
-47,roche,"Si llega después de la una y media, se empinchan y me hacen un roche del carajo",0,79
+47,roche,"Si llega después de la una y media, se empinchan y me hacen un roche del carajo",3,79
 1068,macho,"-¡Anda, machorra! Rosario suelta una carcajada y se pierde entre la muchedumbre",0,79
 2115,habla,Pensaba hablarle pero ap enas lo tuve al frente me enfurecí y le di un puñetazo,0,79
 275,carajo,"Escoltado por carajos lejanos, el corneta se dirige a las cuadras de cuarto año",0,79
@@ -4070,7 +4070,7 @@ id_slang,slang,text,label,char_count
 769,fija,"Al cabo de un tiempo, el Añuco le dio un puntapié y no volvió a fijarse en él",0,79
 1111,mano,Cava sintió en su cara una lluvia invisible- ¡Serrano! Cava dejó caer las manos,0,79
 1098,mancha,"A veces yo la veía llegar del colegio y pensaba: ""ni una arruga, ni una mancha""",0,79
-2015,soroche,"Suerte que no le haya dado soroche, es la enfermedad más rara dijo Trifulcio",0,79
+2015,soroche,"Suerte que no le haya dado soroche, es la enfermedad más rara",2,79
 484,clavar,"Agradece que tu padre salvó al mío, que si no te clavaría un balazo ahora mismo",0,79
 1954,blanca,"¿Y qué vamos a disparar? Esa cosita blanca que sale cuando te la frotas, pues",0,79
 1876,viejo,El viejo    Los ríos profundos  José María Arguedas  Cada piedra es diferente,0,79
@@ -4159,7 +4159,7 @@ id_slang,slang,text,label,char_count
 2115,habla,"Yo hablaré con él, le explicaré ahí estaban: claros, desconsolados, alarmados",0,80
 636,depa,"Salieron de la discoteca, subieron a un taxi y fueron al departamento de Luciana",0,80
 1050,lonche,"¿Qué te parece si tomamos un lonchecito en la Tiendecita Blanca? Perfecto, tío",0,80
-41,achorado,"¿Qué te pasa oye? ¿Por qué estás así todo achorado? Sácame el arete, Stephanie",0,80
+41,achorado,¿Qué te pasa oye? ¿Por qué estás así todo achorado?,3,80
 769,fija,"Nasha Suro echó a andar con la mirada aviesa, fija en el hacendado y sus hombres",0,80
 1894,vuelta,"Bajó a un tirante de madera y saltó allí muchas veces, dándose vueltas completas",0,80
 2300,taba,"Tenía la boca abierta, del labio inferior adelantado colgaba una hebra de tabaco",0,80
@@ -4170,7 +4170,7 @@ id_slang,slang,text,label,char_count
 1876,viejo,Una mujer señaló a un tipo gordo que estaba ojeando un viejo ejemplar de Bohemia,0,80
 389,chifa,Era criollo y chifa a la vez, comieron y tomaron tanto que apenas podían caminar,0
 435,cholo,"Qué vamos a hacer, pues, china, los cholos están por todas partes dijo Gonzalo",0,80
-221,calata,Hemos encontrado una revista de calatas en el cuarto de Joaquín dijo Maricucha,0,80
+221,calata,Hemos encontrado una revista de calatas en el cuarto de Joaquín,3,80
 587,cuchi,"Si se ve perdido puede clavarle un cuchillo a Romero, dijo uno de los internos",0,80
 793,fresco,Pero tampoco hay nadie allí y por ningún lado aparecen rastros frescos de indios,0,80
 890,helena,"Acababan de dejar el Malecón, avanzaban por Juan Fanning hacia la casa de Helena",0,80
@@ -4202,7 +4202,7 @@ id_slang,slang,text,label,char_count
 1227,muni,"Escríbase algo en su periódico, pida que la Municipalidad nos aumente la partida",0,80
 319,chacra,"Desde las lomas de Tambo, se advertía muy hermosa la gran chacra de trigo y maíz",0,80
 1876,viejo,Ni por todo lo mal que lo ha estado pasando el viejo este tiempo has ido a verlo,0,80
-2268,caleta,"¿tienes para tu pasaje?    Sí tengo (Bajo, a MISTERIO) Dame pero caleta",0,80
+2268,caleta,Dame pero caleta,2,80
 283,cargo,Promesa formal de que no serán molestados ni despedidos de los cargos que ocupan,0,80
 2198,mañoso,"Todos los hombres son iguales, mañosos y resabidos dijo la mujer que manejaba",0,80
 1237,negro,"-Y el poeta encima de los dos, un sándwich de negro, un hotdog -agregó el Jaguar",0,80
@@ -4322,7 +4322,7 @@ id_slang,slang,text,label,char_count
 1843,un culo,"cuando voy a norte hay un culo de hinchas, casi todos son de la U, gente de barrio",0,82
 2218,pollo,"Esta carne parece pollo, qué delicia dijo Sixto, masticando un pedazo del venado",0,82
 1693,solapa,Trifulcio cogió al hombrecito de las solapas y con suavidad lo retiró de la puerta,0,82
-174,burro,MISTERIO:  ¿Tienes algún problema conmigo?  EL BURRO:  El domingo se ponen bacanes,0,82
+174,burro,El domingo se ponen bacanes,0,82
 2316,pata,"La carabina había funcionado livianamente, sin el salto y la patada de la escopeta",0,82
 1501,punta,"El suboficial sacó una libreta y escribió, mojando la punta del lápiz en la lengua",0,82
 2316,pata,"Algunos hombres pretendieron escapar de la chichería, arrastrándose a cuatro patas",0,82
@@ -4345,7 +4345,7 @@ id_slang,slang,text,label,char_count
 1318,parado,Joaquín estaba en el metro cuando lo vio: él estaba parado en el andén de enfrente,0,82
 1708,stone,"madonna, the rolling stones files  dos personas besándose siempre parecen pescados",0,82
 332,chamo,"El general Chamorro en el teléfono, mi General dijo un capitán, desde la puerta",0,82
-2256,agarre,MISTERIO comienza a reírse) Pégame cabrón que cuando te agarre afuera vas a llorar,0,82
+2256,agarre,Pégame cabrón que cuando te agarre afuera vas a llorar,3,82
 513,cole,La décima parte de lo que acaba de decirme puede costarle la expulsión del colegio,0,82
 332,chamo,"¿Qué tal si conseguimos más chamo? dijo Gustavo, mientras bajaban en el ascensor",0,82
 2294,plata,"Sorry por hacerte venir, pero estoy juntando plata para comprarme un carro  dijo",0,82
@@ -4361,16 +4361,16 @@ id_slang,slang,text,label,char_count
 261,caña,"Cortó caña en una hacienda, segó trigo en otra y en una tercera fue mozo de cuadra",0,82
 265,capo,"El caporal apretó, a dos manos y el indio, contorsionándose de dolor, bramó, ululó",0,82
 1927,yaya,"Rezando el Yayayku34 , apretaría su garganta de gusano y la tumbaría, sin soltarla",0,82
-2283,jugador,Se reparten todas las cartas entre cuatro jugadores, la caja inventa los comodines,0
+2283,jugador,Se reparten todas las cartas entre cuatro jugadores,0,0
 1968,causa,Estrella de la Farándula asesinada a chavetazos causará más impacto dijo Arispe,0,82
 1111,mano,Sintió cómo temblaba su mano mientras buscaba el bulto entre las piernas de Miguel,0,82
 270,carabina,"Atrás, quienes tenían carabinas, las levantaban sobre la cabeza con los dos brazos",0,82
-548,concha,¿tú crees que es fácil ser como yo? Para ser un conchasumadre hay que tener huevos,0,82
+548,concha,¿tú crees que es fácil ser como yo? Para ser un conchasumadre hay que tener huevos,3,82
 1253,nota,"El zorro miró, y sin notar que era el reflejo de la luna, dijo: «¡Qué buen queso!»",0,82
 513,cole,El camión estaba detenido en la puerta del colegio y los cadetes saltaban a tierra,0,82
 2136,cabro,"Matemos un cabro, hagamos patria gritó Juan Carlos, y empezó a patear a la mujer",0,82
 232,callejón,"Amalia se quedó hasta la noche, sintiéndose más deprimida que nunca en el callejón",0,82
-2136,cabro,(El MAYOR lo cruza) ¿Quién es el cobarde? Por cabrones como tú nos ganan la guerra,0,82
+2136,cabro,¿Quién es el cobarde? Por cabrones como tú nos ganan la guerra,3,82
 414,chispas,"El postre lo escojo yo dijo el Chispas, cuando el mozo se alejaba con el pedido",0,82
 673,emilio,-Está templado hasta los huesos - dijo Emilio- Nunca he visto a nadie más templado,0,82
 1697,sopa,"- Nada - refunfuñó la mujer, inclinándose sobre la olla: la sopa todavía no hervía",0,82
@@ -4529,7 +4529,7 @@ id_slang,slang,text,label,char_count
 459,chup,"Una noche había anunciado en la redacción, con aire resuelto: no voy a chupar un mes",0,84
 1968,causa,"Lo que interesa es saber qué error, qué equivocación ha causado la muerte de] cadete",0,84
 513,cole,"Antes de entrar al Colegio Militar, siempre llegaba tarde a las reuniones del barrio",0,84
-46,jato,Yo estaba happy porque me iba a ganar un billetón y me podía llevar algo a la jato,0,84
+46,jato,Yo estaba happy porque me iba a ganar un billetón y me podía llevar algo a la jato,1,84
 1575,regla,"Luego estrelló la regla, diez veces más, en la palma de la mano izquierda de Joaquín",0,84
 2236,tranqui,"Bueno, lo de meterle bala no iba en serio más tranquilo ahora, tratando de bromear",0,84
 1505,punto,"Si hay que trabajar con él, en vez de amargarnos tratemos de explotar su punto débil",0,84
@@ -4556,7 +4556,7 @@ id_slang,slang,text,label,char_count
 1237,negro,Ya están cerca y dentro de poco doblarán aquel cerro negro para entrar a los trillos,0,84
 1046,loco,"Está usted loco, Padre sonrió Ivonne y dio un golpecito a Becerrita en la rodilla",0,84
 187,cacha,"Y dice que el cachaco dudó un momento, pero después le dio curiosidad y se le acercó",0,84
-1876,viejo,"Cinco pobres diablos, para remate uno de ellos viejo y con soroche  dijo Ludovico",0,84
+1876,viejo,"Cinco pobres diablos, para remate uno de ellos viejo y con soroche",3,84
 513,cole,-Quiero saberlo -dijo Gamboa- ¿Por qué entró al Colegio Militar? -Quería ser militar,0,84
 1339,patas,"No, las hembras no, pero casi todos los patas estábamos monstruos dijo Juan Carlos",0,84
 136,bestia,"Temblando, las bestias resbalan en el empedrado, y el jinete los obliga a retroceder",0,84
@@ -4632,8 +4632,8 @@ id_slang,slang,text,label,char_count
 2310,volar,"Habría que hundir el puente pensé, volarlo con dinamita, hacer caer sus tres arcos",0,85
 1237,negro,"La noche entoldó un cielo bajo, muy negro, donde latían inmensas y cercanas estrellas",0,85
 1695,soli,Lo mejor sería que el Ministro de Gobierno dirija una solicitud al Ministro de Guerra,0,85
-48,lisuras,"El cachaco me dio un puñete en la boca y gritó:no digas lisuras a la niña, maleante""",0,85
-1111,mano,Alberto aprieta levemente la mano de Helena y la mira a los ojos, ella está muy seria,0
+48,lisuras,"El cachaco me dio un puñete en la boca y gritó:no digas lisuras a la niña, maleante""",3,85
+1111,mano,Alberto aprieta levemente la mano de Helena y la mira a los ojos,0,0
 898,hincha,El Jaguar tenía apenas unos rasguños en la frente y una ligera hinchazón en el cuello,0,85
 1268,ojota,"Indios sin ojotas, de ponchos deshilachados, lentos y flacos como animales hambreados",0,85
 1693,solapa,"Pero otra desgracia, solapada y próxima, acechaba a Augusto desde la pelota de caucho",0,85
@@ -4650,7 +4650,7 @@ id_slang,slang,text,label,char_count
 2115,habla,"Yo que tenía el más alto concepto del Opus Dei murmuró, como hablando consigo mismo",0,85
 1317,paradero,Un día de salida hizo subir a Amalia a su carrito blanco y la llevó hasta el paradero,0,85
 1962,apurímac,"¿Y el Añuco? Cabalgaría a esa hora, llorando, por las orillas febriles del Apurímac",0,85
-1510,puta madre,sería de la puta madre hacer una manchita brava y alentar al equipo desde esa tribuna,0,85
+1510,puta madre,sería de la puta madre hacer una manchita brava y alentar al equipo desde esa tribuna,1,85
 430,choco,"Joaquín compró el chocolate, se lo dio al portero, entró al cine y subió a la cazuela",0,85
 265,capo,"Benito, sin responder, aferró el rifle que tenía el caporal, quitándoselo de un jalón",0,85
 513,cole,"-El otro día -dijo ella-, mi papá me preguntó por qué te habían puesto en ese Colegio",0,85
@@ -4746,14 +4746,14 @@ id_slang,slang,text,label,char_count
 2212,pendejo,ni siquiera sabía que el pendejo de coco había cobrado por cepillársela en mi alfombra,0,86
 1134,marinera,"348 -Aprende, pa que lleves a tu tierra: son marineras de esta región de mineros, ésas",0,86
 484,clavar,"Como se lo clavaron ustedes a Bustamante sonrió Bermúdez, pero el coronel no se rió",0,86
-2161,cojudo,Era tan puro y tan cojudo que me fregaba tener la vida tan fácil y ser un niño decente,0,86
+2161,cojudo,Era tan puro y tan cojudo que me fregaba tener la vida tan fácil y ser un niño decente,3,86
 1738,tanta,"Yo que había puesto tantas ilusiones en ti, mi hijito adorado dijo ella, sollozando",0,86
 1781,tira,"Desde el muelle vi a los muchachos del día anterior, fumando tirados sobre las piedras",0,86
 2203,mosaico,"Los molimos con una piedra, sobre el mosaico, y el serrano Cava decía ""rápido, rápido""",0,86
 499,cochino,¿Y por qué le mentiste? Le hubieras dicho que tú no eres un cochino mujeriego como él,0,86
 2161,cojudo,"Las gallinas resultaron gallos, había dicho Ludovico, el cojudo de Hipólito tuvo razón",0,86
 2219,polvo,"Borracheras sin convicción, Zavalita, polvos sin convicción, periodismo sin convicción",0,86
-2149,chaveta,"He hecho poner unos revólveres y algunas chavetas y manoplas más, para los periodistas",0,86
+2149,chaveta,"He hecho poner unos revólveres y algunas chavetas y manoplas más, para los periodistas",2,86
 2204,mosca,"¿Cuántos moscardones en su vida, cuántos amores? -Estuve con un muchacho -dijo Teresa-",0,86
 2176,flaco,"Cállate, oye, orangután, sacolargo gritó Piticlín Núñez, jugador flaco y habilidoso",0,86
 2204,mosca,"Le hablé a la mosca, mientras volaba a ras del techo: Siéntate en mi cabeza le dije",0,86
@@ -4775,7 +4775,7 @@ id_slang,slang,text,label,char_count
 153,bola,Sus Ojos saltones giraban en las órbitas como una bola de acero en un círculo imantado,0,86
 1098,mancha,"Dos bandidos se precipitaron sobre la mancha blancuzca y fugitiva, haciéndole disparos",0,86
 2115,habla,"Clemente Yacu se acercó a hablar con Paula: -Vos sabes, Paula, los usos de la comunidá",0,86
-2317,me llega al pincho,"¿Quieres Killer?    No, la pasta me llega al pincho A mí me gusta la cocaine",0,86
+2317,me llega al pincho,"No, la pasta me llega al pincho A mí me gusta la cocaine",3,86
 1954,blanca,"La cara del Esclavo, envuelta en una venda blanca, parecía hinchada y de color granate",0,86
 929,hueco,Washington se había instalado junto a la puerta y espiaba por el hueco de la cerradura,0,86
 1954,blanca,"La Malpapeada es chusca, una mezcla de toda clase de perros, pero tiene un alma blanca",0,86
@@ -4794,7 +4794,7 @@ id_slang,slang,text,label,char_count
 258,cantar,Varias noches fui a esa esquina a cantar huaynos que jamás se habían oído en el pueblo,0,86
 1876,viejo,"El viejo alcalde les inspiraba respeto primero y luego, cuando lo trataban, veneración",0,86
 2033,cañón,"De uno en uno, de dos en dos, se han repartido por el cañón y más allá, por los riscos",0,86
-1450,pita,Pitaluga era su compañero de sección, no estudiaba mucho pero tenía excelente puntería,0
+1450,pita,Pitaluga era su compañero de sección,0,0
 2294,plata,El momento está tan malo para los negocios que la gente no tiene plata ni para morirse,0,86
 2289,paja,"Alguien tosió y la voz de pajarito murmuró silencio, y comenzaron a toser dos a la vez",0,86
 2294,plata,"¿Que uno ponía y sacaba la plata cuando quería? Cocorocó, quiquiriquí dice Ambrosio",0,86
@@ -4975,7 +4975,7 @@ id_slang,slang,text,label,char_count
 121,barriada,"No quiero que te quedes sola cuando esté de viaje, con tanto vago que hay en la barriada",0,88
 288,caro,Las mocitas pensaban que acaso sus madres las regañarían diciendo que compraban muy caro,0,88
 2115,habla,Estoy tratando de hablar con el Ministro para pedirle instrucciones  dijo el Prefecto,0,88
-1969,chamba,"(Sale para servirle) ¿Trabajas mañana?  MISTERIO:  No, también es feriado para la chamba",0,88
+1969,chamba,"No, también es feriado para la chamba",2,88
 513,cole,"Al llegar a la oficina del director del colegio, Pérez-Mejía golpeó tres veces la puerta",0,88
 2299,sapo,Los pequeños sapos asomaban la cabeza entre las yerbas que rodeaban el pozo de la fuente,0,88
 435,cholo,"Un cholo del mismo pueblo, oriundo del barrio de Nuestra Señora, entonaba largos tristes",0,88
@@ -5348,7 +5348,7 @@ id_slang,slang,text,label,char_count
 1253,nota,"Si observamos a los dos amigos, notaremos, que uno de ellos nos es completamente desconocido",0,92
 138,bestialidad,"Lo que había de cinismo, de bestialidad en sus labios, se desvaneció; enrojecieron de sangre",0,92
 1274,ordinario,Los caballos ordinarios tienen más despierto el instinto y saben esconderse en las tormentas,0,92
-2270,chancón,"Está bien que seas chancón, pero no es razón para creer que todos los demás son unos tarados",0,92
+2270,chancón,"Está bien que seas chancón, pero no es razón para creer que todos los demás son unos tarados",3,92
 1894,vuelta,"Lorenzo Medina desapareció durante dos días y cuando estuvo de vuelta, casi nadie lo conoció",0,92
 1894,vuelta,"Una noche salió con tragos del club, iba de regreso a su casa y se dio una vuelta de campana",0,92
 1040,llanto,"Tenía una constante expresión lacrimosa, semejante a la de los niños que contienen el llanto",0,92
@@ -5420,7 +5420,7 @@ id_slang,slang,text,label,char_count
 1267,ojal,-Ya estará encendiendo la candela -dijo el Manco- y ojalá el ventarrón no le dé mucho trabajo,0,93
 2189,levantar,"También levantaron un cobertizo en un ángulo del aprisco, según el proceder de los hacendados",0,93
 827,gorra,Este lucía su misma gorra de siempre y su mismo vestido de dril y sus mismos zapatones bastos,0,93
-1160,mecha,"Y Aguirre se le vino encima y le sacó la mierda, porque Germancito es chato y no sabe mechar",0,93
+1160,mecha,"Y Aguirre se le vino encima y le sacó la mierda, porque Germancito es chato y no sabe mechar",3,93
 2176,flaco,"Le perdonamos que engatuzara y se robara al flaco, le perdonamos que sea cholita: que viniera",0,93
 2189,levantar,"Claudia y Jorge se levantaron de la mesa, caminaron por el jardín y entraron juntos a la casa",0,93
 275,carajo,"Estamos con suerte, carajo dijo Alfonso, entusiasmado, y sacó unos dólares de su billetera",0,93
@@ -5932,7 +5932,7 @@ id_slang,slang,text,label,char_count
 2176,flaco,"Con esta escena de celos le van a amargar el día al flaco, déjense de adefesios dijo don Fermín",0,98
 1111,mano,"Los perros estuvieron en manos de los de cuarto desde el almuerzo hasta la comida, unas ocho horas",0,98
 1046,loco,"Quiñoncito está loco por ti chola, y ella no quería verlo ni en pintura, Quetita, no tiene un cobre",0,99
-1968,causa,"llámame, éste es mi causa El Burro, le dicen así porque hizo 3° de media 4 veces y de ahí se jubiló",0,99
+1968,causa,"llámame, éste es mi causa El Burro, le dicen así porque hizo 3° de media 4 veces y de ahí se jubiló",2,99
 75,anda,Tu familia anda podrida en plata ¿no? Según el Chispas están al borde de la quiebra dijo Santiago,0,99
 2115,habla,En cambio el Rajas siempre se dirigía al flaco cuando hablaba y se reía a carcajadas con sus bromas,0,99
 2189,levantar,"¿Te acuerdas del señor Arévalo, el que te dio un sol por levantar el barril? dijo don Melquíades",0,99
@@ -7587,7 +7587,7 @@ id_slang,slang,text,label,char_count
 2115,habla,A todos les daba el nombre de su mujer y de sus padres y les preguntaba si habían oído hablar de ellos o los habían visto,0,121
 96,arruga,"Y ella misma lo envolvió sin una arruga y me lo entregó y entonces me dijo: ""tengo que darte el abrazo por tu cumpleaños""",0,121
 1299,palo,"El sambo alza los brazos, era él: ellos no habían salido esta mañana en el camión, don, se las habían pasado tirando palo",0,121
-221,calata,"¿Tú crees que ver la calata de Caretas es pecado? le preguntó Miguel de los Heros, un chico delgado, moreno y bien alto",0,121
+221,calata,¿Tú crees que ver la calata de Caretas es pecado?,2,121
 121,barriada,"Se tomaron unos piscos con Calancha y después Ludovico y Ambrosio se habían escapado, dejándolo a Hipólito en la barriada",0,121
 1111,mano,"La palidez abarcaba no sólo su rostro, también su cuello y sus manos: bajo la piel se distinguían unos manantiales azules",0,121
 513,cole,"Por eso, los días domingos, salía precipitadamente del Colegio, a recorrer los campos, a aturdirme con el fuego del valle",0,121
@@ -7978,7 +7978,7 @@ id_slang,slang,text,label,char_count
 317,chacal,"Con camiseta de Alianza pasa CARLOS, el enamorado de LUCÍA, EL CHACAL le pasa la voz a MISTERIO) MISTERIO:  No te metas, Chacal",0,127
 1501,punta,O este gordito amanerado me consigue las armas que necesito o lo voy a hacer bailar mambo a punta de patadas dijo Luis Felipe,0,127
 435,cholo,"El cholo cantaba la estrofa, lentamente, pronunciando cada palabra con especial cuidado e intención, y luego la repetía el coro",0,127
-668,el deshueve,"Bueno, si yo viviera en Miami no lo pensaría dos veces y me vendría a esta islita que me parece el deshueve dijo Luis Felipe",0,127
+668,el deshueve,"Bueno, si yo viviera en Miami no lo pensaría dos veces y me vendría a esta islita que me parece el deshueve",1,127
 1871,verde,"En 1965 apareció su segunda novela, La casa verde, que obtuvo el Premio de la Crítica y el Premio Internacional Rómulo Gal egos",0,127
 1693,solapa,"Solórzano se subió las solapas y metió las manos a los bolsillos: ¿friecito, no? ¿También traerían aquí a Aída? dijo Santiago",0,127
 288,caro,"Él le dijo: «Hay necesidad de libros, pizarras, lápices y cuadernos» En las tiendas pudo encontrar únicamente lápices muy caros",0,127
@@ -7989,7 +7989,7 @@ id_slang,slang,text,label,char_count
 96,arruga,"Yo la espiaba desde mi cuarto y veía su camisa llena de agujeros y remiendos, su cuello que hervía de arrugas, su cabeza greñuda",0,128
 1709,suave,"Respiraba con ansiedad junto a su oído, sus manos repasaban húmedamente su piel, y sintió que su sexo entraba en ella suavemente",0,128
 1692,soga,A la luz de la hoguera podían distinguirse las mataduras hechas en los torsos bronceados por las sogas y las aristas de la carga,0,128
-2270,chancón,"Sólo hay dos en la sección, y Arróspide tampoco es mala gente, un terrible chancón, tres años seguidos de brigadier, vaya cráneo",0,128
+2270,chancón,"Sólo hay dos en la sección, y Arróspide tampoco es mala gente, un terrible chancón, tres años seguidos de brigadier, vaya cráneo",1,128
 2179,fuiste,"Después, cuando se fueron a acostar, me acerqué al Rulos y le dije: ""traidor, ¿por qué no fuiste a la glorieta? Te esperé horas""",0,128
 1111,mano,"Cierra los ojos, tiene la cabeza contra el espaldar, su mano acaricia el lomo, las orejas, el hocico frío, el vientre tembloroso",0,128
 1299,palo,"P-1 me decía siempre: ""haznos una demostración, orina por encima de la correa"", ""muéstrame esa paloma que te llega a la rodilla""",0,128
@@ -8062,7 +8062,7 @@ id_slang,slang,text,label,char_count
 1727,taita,"Apenas vio al alcalde, el rechazado avanzó hacia él: «Rosendo, taita Rosendo, convéncela a mi mujer; no estoy muerto: estoy vivo»",0,129
 293,carrera,"El Añuco tenía un protector: Lleras, el campeón de garrocha, de carreras de velocidad y back insustituible del equipo de fútbol",0,129
 459,chup,"¿te quedas hasta el final?, me preguntó mariano, y chupó su chela espumosa, de todas maneras, le dije, a ver si hablamos, dijo él",0,129
-1291,pajero,"Se quemaron por pajeros, se quemaron por pajeros gritaban unos muchachos, riéndose de la gente que salía a toda prisa del Colón",0,129
+1291,pajero,"Se quemaron por pajeros, se quemaron por pajeros gritaban unos muchachos, riéndose de la gente que salía a toda prisa del Colón",3,129
 834,gringa,"355 Una de las minas era en ese tiempo y no sé si hasta hoy con la avalancha de gringada, de propiedá de la millonaria Salirrosas",0,129
 1111,mano,"Sus manos sobre sus rodillas, piensa, sus pestañas negras mojadas, el pelo revuelto sobre su cuello, y las orejas  como con frío",0,129
 2189,levantar,"Es casi seguro que en la Federación, esta noche, se proponga levantar la huelga: Nos queda una hora para decidir nuestra posición",0,129
@@ -8096,7 +8096,7 @@ id_slang,slang,text,label,char_count
 2236,tranqui,"Ya se sentía tranquilo y seguro, Zavalita, ya había pasado el mal rato, el susto, ya podía aconsejarte y ayudarte y dormir en paz",0,129
 2294,plata,"Y el Jaguar le dijo: ""si usted no estuviera en quinto, mi cadete, seguro que no se atrevía a sacarnos la plata y los cigarrillos""",0,129
 1671,serrucho,"Amadeo y los podadores fueron provistos de serruchos y se pusieron a trabajar frente a las casas, a fin de no entorpecer la rauma",0,129
-2327,tombo,"Dicen que Luchito iba sacando un calzoncillo por la ventana, tipo bandera blanca, cuando los tombos lo pararon dijo Juan Carlos",0,129
+2327,tombo,"Dicen que Luchito iba sacando un calzoncillo por la ventana, tipo bandera blanca, cuando los tombos lo pararon",3,129
 1237,negro,Tenía la cabeza algo echada hacia atrás, el viento agitab a su camisa comando y unos cabellos negros que asomaban por la cristina,0
 2115,habla,"La señorita Queta venía a verla, y desde la sofocante cocina, Amalia las oía, hablando día y noche de lo mismo: se iría, viajaría",0,129
 153,bola,"¿Está asustado Bola de Oro de la pobre loca? ¿Es tan imbécil de asustarse de la pobre? Él la ha visto, él sabe en qué estado está",0,129
@@ -8726,7 +8726,7 @@ id_slang,slang,text,label,char_count
 1138,mariscal,¿Crees que vas a conseguir trabajo en Lima? Necesitamos algo que recuerde la excelente fórmula del mariscal Benavides dijo el doctor Ferro,0,141
 1111,mano,"El hombre salió a la puerta y señaló con la mano: -Doblas esa esquina, caminas una cuadra y al voltear, a mano derecha, ahí está la sección 3",0,141
 636,depa,Así cruzó los Andes del departamento de La Libertad llevándose muchos paisajes en las retinas y un dolor sordo que le iba enturbiando la vida,0,141
-203,cachimbo,"Se fueron en primer lugar del Parque, dejando atrás las gentes, los gritos y una diana que ejecutaba una banda de cachimbos con gran decisión",0,141
+203,cachimbo,"Se fueron en primer lugar del Parque, dejando atrás las gentes, los gritos y una diana que ejecutaba una banda de cachimbos con gran decisión",2,141
 2115,habla,"¿De Lima? Leoncio Paniagua no se lo había querido creer: pero si hablaba igualito a la gente de aquí, si tenía el cantito y los dichos y todo",0,141
 636,depa,"El subprefecto, impotente para intervenir y ni siquiera reconvenir a los hacendados, pedía fuerzas y órdenes a la prefectura del departamento",0,141
 2316,pata,"Pataleó y arañó cuando la tenía cargada y en la camioneta se hacía la que lloraba porQue se tapaba la cara, pero Ambrosio no la sentía llorar",0,141
@@ -8735,7 +8735,7 @@ id_slang,slang,text,label,char_count
 1876,viejo,El mismo veía que era necesario y cuando el buen viejo Rosendo quiso una escuela fue sin duda porque intuyó el mundo al cual no tenían acceso,0,141
 1875,vieja,"Escritorios sin papeles, sillas viejas, fotos de Odría, carteles, Viva la Revolución Restauradora, Salud, Educación, Trabajo, Odría es Patria",0,141
 1111,mano,"Las mujeres que ocupaban el atrio y la vereda ancha que corría frente al templo, cargaban en la mano izquierda un voluminoso atado de piedras",0,141
-2035,pisco,Los amigos comienzan a beber pisco y una mujer obesa les repite las copas advirtiendo que es puro de Ica y parece que ellos lo saben apreciar,0,141
+2035,pisco,Los amigos comienzan a beber pisco y una mujer obesa les repite las copas advirtiendo que es puro de Ica y parece que ellos lo saben apreciar,2,141
 2294,plata,"Con la plata que ganaron esa noche, Pedro y Joaquín comieron una pizza y tomaron una jarra de sangría en un restaurante de la avenida Diagonal",0,142
 1111,mano,"¿Podría darme algunos datos, Inspector? Por lo pronto, las presentaciones dijo el de la papada, cordialmente, y le alcanzó una mano blanda",0,142
 769,fija,¿Por qué será? Cuando están quietos sus ojos parecen un poco bizquitos, no se fijan parejos, uno de ellos se queda sin haber llegado al centro
@@ -9201,7 +9201,7 @@ id_slang,slang,text,label,char_count
 958,inge,"Una mala noticia, lo cogieron al cholo Martínez al salir de Ingeniería dijo Washington; estaba demacrado y ojeroso, así tan serio parecía otra persona",0,153
 1253,nota,"En tiempo de verano, cuando no se podía recoger el agua de la lluvia que en invierno chorreaba de las tejas, su carencia daba la nota típica del poblacho",0,153
 513,cole,"En el Colegio, durante los recreos, se paraba apoyándose en las columnas de los corredores, miraba jugar y a veces intervenía, pero en los juegos crueles",0,153
-184,cabrón,"mariano se movía como una culebra, por dios que parecía una culebra, bailaba como un dios el cabrón, yo, valgan verdades, nunca he bailado demasiado bien",0,153
+184,cabrón,"mariano se movía como una culebra, por dios que parecía una culebra, bailaba como un dios el cabrón, yo, valgan verdades, nunca he bailado demasiado bien",1,153
 2236,tranqui,"Si alguien, entre esas rocas donde comenzaba la bajada al pueblo, le salía al paso, no tenía sino que mostrarle el pañuelo del nudo para seguir tranquilo",0,153
 1383,perra,"""¡Salta Malpapeada, no tengas miedo!"", y la perra, arriba del ropero, roncando y ladrando, mirando con un susto, como el perro en la punta de la escalera",0,153
 827,gorra,"Usaba una gorra de visera corta, dentro y fuera de su taller, que no necesitaba defender del sol una cara curtida por la cotidiana llamarada de la fragua",0,153
@@ -9241,7 +9241,7 @@ id_slang,slang,text,label,char_count
 1061,lucas,"¿La policía no encontró las joyas, señora? La señora se rió sin ganas, nunca las encontrarían, y los ojos se le aguaron, Lucas era más vivo que la policía",0,154
 483,clarito,"Me acuerdo clarito que me dijo: en Lima tienes que saber meterte tiros, porque los mejores negocios se hacen en los baños de hombres con coca de por medio",0,154
 1692,soga,"Me echaste la soga al cuello y ahora me clavas la puntilla, decía Trinidad, ojalá sea hombre, van a creer que es tu hermano, qué mamacita tan joven tendrá",0,154
-1271,ómnibus,"Fue a averiguar los precios del ómnibus, compró un pasaje en uno que salía a las diez, así que tuvo tiempo de tomar un café con leche y dar una vueltecita",0,154
+1271,ómnibus,"Fue a averiguar los precios del ómnibus, compró un pasaje en uno que salía a las diez, así que tuvo tiempo de tomar un café con leche y dar una vueltecita",2,154
 931,huella,"Había hora senderos por la cuesta, huellas del trajín, una impresión, confusa pero  no por eso menos cierta, de que existía vida humana en esos contornos",0,154
 1464,planta,"Así disfrazado, se dirigió al río y cogió la canoa que un niño, a quien sus padres ordenaron recoger algunas plantas medicinales, había dejado a la orilla",0,154
 1695,soli,"El Inspector de Instrucción afirmó, recién entonces, que había que presentar una solicitud escrita, consignando el número de niños escolares y otras cosas",0,154
@@ -9275,19 +9275,19 @@ id_slang,slang,text,label,char_count
 75,anda,"Le dio una libra a Amalia: habían complicado a la señora en algo feo, a lo mejor vendrían policías o periodistas, anda vete donde tu familia por unos días",0,154
 23,cintura,"Sólo las cinturas y nalgas se movían, en un movimiento profundo y circular, en tanto que la parte superior de sus cuerpos permanecían soldados e inmóviles",0,154
 976,jaranista,"Pero el jaranista de verdad había sido Hipólito, don, Ludovico era sobre todo ambicioso: quería trepar, mejor dicho que algún día lo metieran al escalafón",0,154
-2113,churro,"Tengo que confesarte que eres más churro de lo que Alexandra me había contado le dijo Adriana a Joaquín, cuando el mozo se retiró, tras anotar el pedido",0,154
+2113,churro,"Tengo que confesarte que eres más churro de lo que Alexandra me había contado le dijo Adriana a Joaquín, cuando el mozo se retiró, tras anotar el pedido",1,154
 1066,machete,"0rdóñez desenvainó un largo y filudo machete, que más parecía un sable y, abalanzándose sobre el que estaba más próximo, le voló la cabeza de un solo tajo",0,154
-234,calzon,"Estabas en piyama, no encontrabas el calzoncillo se te enredaba el pantalón y cuando le escribías un papelito a Ana te comenzó a temblar la mano, Zavalita",0,154
+234,calzon,"Estabas en piyama, no encontrabas el calzoncillo se te enredaba el pantalón y cuando le escribías un papelito a Ana te comenzó a temblar la mano, Zavalita",2,154
 1709,suave,"voy a tu casa, aunque me encuentre con tu vieja, que se joda la cara de perro, quiero verte, quiero verle la cara al chico suave con quien he hecho el amor",0,155
 1959,profe,"18  La Ciudad y los Perros  Mario Vargas Llosa  En la puerta del aula aparecen el teniente Gamboa y el profesor de Química, un hombre escuálido y cohibido",0,155
 1046,loco,"ni loco lo iba a llamar de nuevo, ni de a vainas me iba a arriesgar a que me contestara el teléfono la cara de perro y me metiera una puteada de campeonato",0,155
 509,cojones,"Pero eso sí, solo pongo una condición: que tú me prometas que vas a dejarte de mariconadas y que vas a portarte como un hombre con los cojones bien puestos",0,155
-2242,chato,"Había allí un hombre bajo y delgado, pero de complexión fuerte, cuyo chato sombrero de paja, inclinado hacia  la coronilla, dejaba ver una frente abombada",0,155
+2242,chato,"Había allí un hombre bajo y delgado, pero de complexión fuerte, cuyo chato sombrero de paja, inclinado hacia  la coronilla, dejaba ver una frente abombada",2,155
 2176,flaco,"La arrastraba al Estadio tempranito para pescar buen sitio, en el partido se ponía ronco de tanto gritar, decía lisuras si le metían un gol al flaco Suárez",0,155
 2115,habla,"Esta mujer que está hablando dice que antes era hombre y que un día decidió cambiarse de sexo y se cortó el pipí en pedacitos, como salami dijo Maricucha",0,155
 2176,flaco,El flaco se emborrachó y le ordenó a la mulata que nos hiciera show: bailó un mambo en calzones y de repente el flaco se le fue encima y la tiró en la cama,0,155
 1876,viejo,"Los había criado a los dos, los trataba de tú, una vez le había jalado la oreja al viejo delante de ti: siglos que no vienes a visitar a tu hermano, Fermín",0,155
-275,carajo,"Cuando oí los pitazos, los balazos y los carajos salí corriendo hacia ellos, pero me di cuenta que estaban ensartados: en la esquina había tres patrulleros",0,155
+275,carajo,"Cuando oí los pitazos, los balazos y los carajos salí corriendo hacia ellos, pero me di cuenta que estaban ensartados: en la esquina había tres patrulleros",3,155
 275,carajo,"Luis Felipe lo miró sorprendido y dijo «parece que el trago se le ha trepado al muchacho, carajo», y la gente que estaba a su alrededor se rio a carcajadas",0,155
 591,cuero,"Brillan los fogones alumbrando mujeres que preparan comida y hombres que ensillan caballos, que arrollan lazos de cuero, que desayunan, que montan y parten",0,155
 1554,ratón,"Al principio, el zambo me provocaba y se reía, ""eres el ratón y yo el gato"", me decía, pero le coloqué un par de cabezazos y entonces peleamos de a deveras",0,155
@@ -9304,7 +9304,7 @@ id_slang,slang,text,label,char_count
 804,fundirse,"En ella no acaban aún de fundirse -y no ocurrirá pronto, midiendo el tiempo en centurias- las corrientes que confluyen desde muchos tiempos y muchos mundos",0,155
 800,fulbito,"Al verlos pasar, el japonés de la tienducha de los jugos de fruta donde se refugiaban hacía años después de los partidos de fulbito, los saludó con la mano",0,155
 1804,toque,"Los cuatro toques, enérgicos y precisos, bien separados para que se pudiera advertir su número claramente, colmaron la hoyada y repercutieron en los cerros",0,155
-41,achorado,"llego al edificio con olor a mondonguito y toco el timbre y pienso ojalá que no esté la cara de perro y escucho gabriel, un grito así bien recio y achorado",0,155
+41,achorado,"llego al edificio con olor a mondonguito y toco el timbre y pienso ojalá que no esté la cara de perro y escucho gabriel, un grito así bien recio y achorado",2,155
 1860,vale,"-Güeno -respondió Casiana, recordando la rebelión de Valencio pensando en él, en Vásquez y todos los hombres alzados y fuertes que sin duda los acompañaban",0,155
 187,cacha,"Un domingo estaban comiendo un apanado después del cachascán y Amalia vio que Trinidad la miraba raro: ¿qué te pasa? Déjala a tu tía, que se viniera con él",0,155
 1834,tuco,El Fiero le agradeció y don Teodoro se fue después de decirle: «Mañana nos vamos al Tuco y la forma de agradecerme no es la palabra sino el comportamiento,0,155
@@ -9367,7 +9367,7 @@ id_slang,slang,text,label,char_count
 1781,tira,"Cierran el costal con una cincha, lo colocan en el suelo y el Batuque comienza a gruñir, tira de la cadena gimiendo, qué te pasa, mira espantado; ladra ronco",0,157
 797,frío,"Estaba muy bonita en su traje azul oscuro de amazona, que hacía más potable la blancura de sus manos y su faz, ya un tanto enrojecidas por el frío de la puna",0,157
 1111,mano,"No atinaba a moverse, los escuchaba con los ojos llenos de asombro y se les escurría de las manos y en eso se abrió la puerta y ellos la soltaron: hola, mamá",0,157
-382,chico,"Aj, mira a esos cholos achorados, los odio, bailan Sting como si fuese salsa  dijo ella, poco después, mirando a unos chicos que estaban bailando a su lado",0,157
+382,chico,"Aj, mira a esos cholos achorados, los odio, bailan Sting como si fuese salsa  dijo ella, poco después, mirando a unos chicos que estaban bailando a su lado",3,157
 893,hermano,"¡Caray, el Hermano! ¡El Hermano Miguel! ¿Quién dice que no es bueno, que no es cariñoso? ¿Quién, perro, dice? ¡Sólo algún condenado, algún maldito! le dije",0,157
 893,hermano,"El comunero Leandro Mayta, hermano del alarife, mejoró de unas fiebres palúdicas que había adquirido en un viaje que hizo al lejano río Mangos en pos de coca",0,157
 2314,rubia,"Unas mechas rubias le tapaban las orejas, sus ojos no eran suficientes y sarcásticos, como en los debates piensa, toda su actitud revelaba derrota y humildad",0,157
@@ -9384,7 +9384,7 @@ id_slang,slang,text,label,char_count
 1237,negro,"Oyó el rumor de un galope que se aproximaba y después, caballo y jinete, negros hasta llenar el cielo, aparecieron en una eminencia que dominaba la hondonada",0,157
 1355,pega,"A todos les hacía gracia el ascenso del cuidador, menos al que le quiso pegar Habían quedado de enemigos y una hostilidad creciente los separaba y enfrentaba",0,157
 465,chupe,"Métete al culo mi parte y déjame tomar el chupe dijo Santiago, riéndose, pero el Chispas te miraba muy serio, Zavalita, y tuviste que ponerte serio también",0,158
-185,cacanero,"¿Tú crees que podría chambear en tu negocio? ¿Me podrías ayudar a conseguir una chamba, Pedro? ¿Alguna vez te has atorado a un cacanero? ¿Qué? Pedro se rio",0,158
+185,cacanero,"¿Tú crees que podría chambear en tu negocio? ¿Me podrías ayudar a conseguir una chamba, Pedro?",2,158
 1462,planchar,"Luego Ana y doña Lucía comenzaron a discutir por el cuarto de baño y la mesa de planchar, el uso de plumeros y escobas y el desgaste de las cortinas y sábanas",0,158
 153,bola,"Por supuesto, nadie le dio ni bola a la pobre, y a las seis de la mañana terminamos las dos borrachísimas llorando en el hotel, y mi mami vomitó hasta el alma",0,158
 1111,mano,"Ella le atajaba las manos,  no se dejó abrir la blusa, levantar la falda: ya en esa época se habían enamorado, niño, pero las cosas en serio vinieron después",0,158
@@ -9732,7 +9732,7 @@ id_slang,slang,text,label,char_count
 1429,pinta,"siempre anda con su camisa medio abierta y su lapicerito de oro (que no pinta) en el bolsillo, de quién te habrás robado ese lapicero, cara de chancho, el gordito me ve",0,168
 2237,viejos,"432 Y la naturaleza toda, con sus cerros, sus lomas, sus encañadas, sus árboles y sus animales, llega al despierto amor de Juan Medrano como en los viejos días añorados",0,168
 1111,mano,"Alberto libera el sacón del colgador,  10  La Ciudad y los Perros  Mario Vargas Llosa  mete el candado en las armellas y aprieta con toda la mano, para apagar el ruido",0,168
-2335,cachaco,"Un cachaco que pasaba por ahí le sacó la pistola y le estuvo apuntando y le decía: ""caminando para la comisaría, cinco metros adelante, o lo quemo a balazos, so ladrón""",0,168
+2335,cachaco,"Un cachaco que pasaba por ahí le sacó la pistola y le estuvo apuntando y le decía: ""caminando para la comisaría, cinco metros adelante, o lo quemo a balazos, so ladrón""",3,168
 75,anda,"Se levantó, echó a andar, y cuando llegó a la barriada vio que habían pavimentado algunas calles y construido casitas con pequeños jardines que tenían el pasto marchito",0,168
 435,cholo,"El cholo del barrio de Nuestra Señora manifestó que él, de hallarse libre, repetiría su acción de guerra contra el campo de Amenábar, porque no podía ver a ese tagarote",0,168
 2314,rubia,"Ven, mi amor, te voy a presentar a la hija de tu tía Natalia le dijo Maricucha, señalando a una chica rubia que estaba comiendo bocaditos cerca de la pista de baile ",0,168
@@ -11101,7 +11101,7 @@ id_slang,slang,text,label,char_count
 372,cherry,"entro al haití y lo llamo del teléfono de la caja y si no lo encuentro, mejor no paso por su casa, porque tampoco quiero ganarme un pleito jodido con su vieja, a uno le gusta ir por la sombra, no quiero cherrys contigo, cara de perro",0,233
 1505,punto,"-Según lo que se entienda por cultura -interrumpió el escritor-; para ser franco, situándome en un punto de vista humano, lo menos especulativo posible, digo que la cultura no puede estar desligada de un concepto operante de justicia",0,233
 513,cole,"Sucesivos, ametrallados por una garganta colectiva, los insultos no son, sin embargo, precisos: apuntan a blancos abstractos como Dios, el oficial y la madre y los cadetes parecen recurrir a ellos más por su música que su significado",0,233
-941,huevo,"Piensa: debe ser rico llegar a tu casa y que tu esposa te prepare una buena comida, que tenga tus camisas planchaditas, que te corte las uñas y te eche talquito en los huevos, que tus chibolos jueguen contigo y te hagan cagar de risa",0,233
+941,huevo,"Piensa: debe ser rico llegar a tu casa y que tu esposa te prepare una buena comida, que tenga tus camisas planchaditas, que te corte las uñas y te eche talquito en los huevos, que tus chibolos jueguen contigo y te hagan cagar de risa",1,233
 414,chispas,"Los señores habían salido, la niña Teté y el niño Santiago se habrían dormido ya, el niño Chispas se había ido a la Escuela Naval con su uniforme qué, qué y ella, idiota pues, le había hecho caso, idiota se había metido a su cuarto",0,233
 909,huaco,"Cuando acababan, él y Ana salían a pasear por las calles rectas y siempre soleadas, entraban a algún cine a acariciarse, tomaban refrescos en la Plaza, volvían a la casa a charlar y besarse de prisa en un saloncito atestado de huacos",0,233
 1400,picado,"Ella sólo había visto corridas en el cine y cerraba los ojos, chillaba cuando el toro derribaba a un peón, qué salvajes los picadores decía, pero en el último toro de Santa Cruz también sacó su pañuelito, como Ambrosio, y pidió oreja",0,233
@@ -11624,7 +11624,7 @@ id_slang,slang,text,label,char_count
 543,compu,", Constitució, 19, 08014 Barcelona  El día 3 de noviembre de 1997, un jurado compuesto por Salvador Clotas, Juan Cueto, Luis Goytisolo, Miguel SánchezOstiz, Esther Tusquets y el editor Jorge Herralde, otorgó el XV Premio Herralde de Novela, por unanimidad, a La noche es virgen de Jaime Bayly",0,293
 405,chino,"Y don Teodoro le preguntó, según su modo de ser, es decir, entre amable y autoritario, por qué se estaba despeñando así y le advirtió además que le dijera la verdad, pues de lo contrario se iba a fregar porque él no admitía cuentos chinos y era bueno que le fuera conociendo desde el principio",0,293
 2189,levantar,"Y entraron, pues, al galope, como un ventarrón, de modo que el centinela que estaba sentado en las gradas de la casa más grande, apenas tuvo tiempo de levantarse para disparar sobre don Teodoro, pero ya llegaba el Fiero que, levantando su fusil, tendió al centinela de un culatazo en el cogote",0,293
-500,coco,"entramos al cielo, no sin antes saludar con el debido cariño al extraterrestre de la puerta que nunca en su puta vida me ha cobrado entrada y por eso lo quiero tanto, y coco me dice si vamos juntos al baño la chata va a sospechar, primero voy yo y después te paso el paco caleta, y yo perfecto",0,293
+500,coco,"entramos al cielo, no sin antes saludar con el debido cariño al extraterrestre de la puerta que nunca en su puta vida me ha cobrado entrada y por eso lo quiero tanto, y coco me dice si vamos juntos al baño la chata va a sospechar, primero voy yo y después te paso el paco caleta, y yo perfecto",2,293
 1025,lanza,"Los suboficiales Morte y Pezoa cargaron al muchacho y se lanzaron por el campo, velozmente, seguidos por el capitán, el teniente y los cadetes que, desde todas direcciones, miraban con espanto el rostro que se balanceaba por efecto de la carrera: un rostro pálido, demacrado, que todos conocían",0,294
 1111,mano,"Sorbe la sopa ruidosamente, mordisquea los trozos de pescado, coge los huesos y los chupa y deja brillantes escuchando o respondiendo o preguntando, y engulle pedacitos de pan, apura largos tragos de cerveza y se limpia con la mano el sudor: el tiempo se lo tragaba a uno sin darse cuenta, niño",0,294
 1875,vieja,"En la luz gris que bajaba suavemente, como una rala lluvia, hasta esa calle de Lince ancha y recta, todo parecía de ceniza: la tarde, las viejas casas, los transeúntes que se aproximaban o alejaban a pasos tranquilos, los postes idénticos, las veredas desiguales, el polvo suspendido en el aire",0,294
@@ -12329,7 +12329,7 @@ id_slang,slang,text,label,char_count
 365,chau,"así que cagándonos de risa llegamos al parque salazar, ese parque tristón que está al final de larco, ahí donde venden globos, ahí donde me encantaba bajar del carro de mi madre cuando era chiquillo y ver todos los globos de miles de colores y pedirle a mi madre un globo, por favor, mami, un globo, por favor, mami, y ella no, gabrielín, no podemos gastar plata en globos, y yo dale con un globo, por favor, mami, y ella dale con que no, gabrielín, y tanto quería yo un globo que un día me arrebaté y agarré el globo del salchichón (ahora que lo pienso, por algo agarré el salchichón), agarré el globo del salchichón y lo jalé fuerte para tenerlo conmigo aunque sea un ratito y, pum, sonó como la gran puta, como si me hubiera reventado un coche bomba con cien kilos de dinamita, y di un salto en pánico y el globo chau, buenas noches los pastores, acababa de estallar por los marinos aires miraflorinos, y el cholo leed que vendía globos a las señoras pitucas como mi linda señora madre me miró feliz, cagándose de risa, no precisamente por buena gente sino porque sabía que mi señora madre le tenía que pagar el globo del salchichón, como en efecto ocurrió, y después, por supuesto, ella aprovechó para darme un sermón de campeonato y explicarme por qué diosito no quiere que tu mamita te compre globos cuando hay niños pobres que no tienen ni qué comer, gabrielín",0,1367
 1514,puto,"apago la alarma, prendo el carro, salgo empinchado, entro a larco, sácate el chamo, mariano, y él saca su billetera y veo la coca ahí brillando, haciéndome guiños, tentándome, y mariano agarra la coca con los dedos y se la lleva a la nariz, veterano el puta, sin ayudarse con la electoral o el brevete o las llaves, nada, con los dedos nomás y sin que se caiga nada de chamito, y yo saco mi brevete y se lo doy, y antes de invitarme mis bien ganados tiros el mariano chequea mi brevete, hace una mueca jodida de coquero antiguo y medio como que se ríe, pero no se ríe del todo porque en una pichanga brava uno no puede reírse bien porque la cara se te pone duraza, y entonces me dice el puto oye, gabrielito, no es por nada pero sales con una cara de culo jodida en esta foto, y yo le digo yo sé, yo sé, odio esa foto, lo que pasa es que estaba estonazo cuando me la tomaron, (es cierto: ese día mi pata charlie y yo estábamos en pleno vuelo astral cuando curiosamente se me antojó meterme en un estudio de fotos de la arenales, creo que era mi narciso amor por la cámara, y me acuerdo clarito que cuando me tomaron la foto yo estaba chinazo y puse así una cara muy seria y salí horrible y mi pata charlie se doblaba de risa atrás de los reflectores que me estaban haciendo sudar, y yo serísimo, con una cara olímpica de huevas tristes, qué habrá sido de tu vida, charlie boy",0,1375
 168,brother,"así que me paro apuradísima y corro a la puerta y el mozo me mira con cara de oe, flaco ratero, no me hagas perromuerto, pues, carajo, que te correteo y te hago meter preso, y yo le digo ahorita vengo, señor, voy a saludar a una amiga, y él se queda perplejo porque no está acostumbrado a que un señorito como yo lo trate de señor, y salgo corriendo a la calle fría y fea (porque larco cada día se pone más fea, qué horror la cantidad de mendigos y pirañitas y orates semidesnudos que pululan por esa céntrica avenida miraflorina) y digo (no grito, porque las damas no gritan, pues, hija, qué es eso de estar gritando en pleno miraflores melody), digo nathalie, nathalie, y ella para y voltea y me alucina y se ríe con su sonrisa cachacienta y yo ay, qué emoción, y dejándose de mariconadas: qué rica está la chata, está para hacerle tremendas mañoserías, y la nathalie se me  viene así corriendo y me abraza y me da un chape en el cachete brother y hacemos una escena de telenovela argentina (lo más andrea del boca abrazando a su novio en el aeropuerto yo) y los diplomáticos cabriolas me miran medio desconcertados y cuchichean a mis espaldas, ya los escucho diciendo ésa debe ser la pantalla de barrios, el muy pendejo se las da de playboy pero tú y yo sabemos que es una locaza conocida, pues, hijo, ladran, sancho, señal que avanzamos (y date prisa que nos van a moder los perros, sancho)",0,1395
-2137,cachaciento,"Así es que fui a hablar con mi jefe (el típico español con una de esas barbas espesas que si rebuscas bien encuentras arañas, con sus anteojitos de intelectual de Página 247  mediopelo, un cigarro en la boca y una panza del carajo, una panza de luchador de sumo, ya te lo imaginas) y muy respetuoso le dije señor Alpuente, le agradezco mucho la oportunidad que me dio en esta compañía, pero lo siento, tengo que renunciar por motivos estrictamente personales, y él me dijo ¿pero por qué, señor García, si usted ha entrado a la compañía hace apenas unos meses?, y entonces yo le dije porque esto no es compatible con mis expectativas, señor Alpuente, y él se rio todo cachaciento y me dijo bueno, señor García, viniendo de Sudamérica tal vez debería usted empobrecer sus expectativas, y yo aguantándome la rabia le dije eso jamás, señor Alpuente, yo puedo empobrecer materialmente pero nunca voy a empobrecer mis ambiciones, y él sonriendo muy bacancito me dijo bueno, lo lamento, señor García, pero si cambia usted de parecer, siempre será bienvenido en la Compañía de Seguros La Estrella, donde cada vendedor es una estrella, y yo casi le digo oye, gordito, cara de olla, no me huevees, pues, ¿con quién crees que estás tratando, ah?, ¿tú crees que le vas a vender chapitas al dueño de la cocacola?, pero afortunadamente me controlé y le di las gracias y buenas noches los pastores, si te vi no me acuerdo",0,1407
+2137,cholywood,"Así es que fui a hablar con mi jefe (el típico español con una de esas barbas espesas que si rebuscas bien encuentras arañas, con sus anteojitos de intelectual de Página 247  mediopelo, un cigarro en la boca y una panza del carajo, una panza de luchador de sumo, ya te lo imaginas) y muy respetuoso le dije señor Alpuente, le agradezco mucho la oportunidad que me dio en esta compañía, pero lo siento, tengo que renunciar por motivos estrictamente personales, y él me dijo ¿pero por qué, señor García, si usted ha entrado a la compañía hace apenas unos meses?, y entonces yo le dije porque esto no es compatible con mis expectativas, señor Alpuente, y él se rio todo cachaciento y me dijo bueno, señor García, viniendo de Sudamérica tal vez debería usted empobrecer sus expectativas, y yo aguantándome la rabia le dije eso jamás, señor Alpuente, yo puedo empobrecer materialmente pero nunca voy a empobrecer mis ambiciones, y él sonriendo muy bacancito me dijo bueno, lo lamento, señor García, pero si cambia usted de parecer, siempre será bienvenido en la Compañía de Seguros La Estrella, donde cada vendedor es una estrella, y yo casi le digo oye, gordito, cara de olla, no me huevees, pues, ¿con quién crees que estás tratando, ah?, ¿tú crees que le vas a vender chapitas al dueño de la cocacola?, pero afortunadamente me controlé y le di las gracias y buenas noches los pastores, si te vi no me acuerdo",0,1407
 1111,mano,"Alberto volvió la cabeza; la calamina era blanca, el cielo era gris, en sus oídos había una música, el diálogo de las hormigas coloradas en sus laberintos subterráneos, laberintos con luces coloradas, un resplandor rojizo en el que los objetos parecían oscuros y la piel de esa mujer devorada por el fuego desde la punta de los pequeños pies adorables hasta la raíz de los cabellos pintados, había una gran mancha en la pared, el cadencioso balanceo de ese muchacho marcaba el tiempo como un péndulo, fijaba el reducto a la tierra, impedía que se elevara por los aires y cayera en la espiral rojiza de Huatica, sobre ese muslo de miel y de leche, la muchacha caminaba bajo la garúa, liviana, graciosa, esbelta, pero esta vez el chorro volcánico estaba ahí, definitivamente instalado en algún punto de su alma, y comenzaba a crecer, a lanzar sus tentáculos por los pasadizos secretos de su cuerpo, expulsando a la muchacha de su memoria y de su sangre, y segregando un perfume, un licor, una forma, bajo su vientre que sus manos acariciaban ahora y de pronto ascendía algo quemante y avasallador, y él podía ver, oír, sentir, el placer que avanzaba, humeante, desplegándose entre una maraña de huesos y músculos y nervios, hacia el infinito, hacia el paraíso donde nunca entrarían las hormigas rojas, pero entonces se distrajo, porque Paulino acezaba y había caído a poca distancia, y el Boa decía palabras entrecortadas",0,1419
 235,camal,"he entrado para llamar por teléfono a mi camal mariano, porque tengo ganas de verlo, y porque tengo un par de horas libres antes de ir a la tele, así que me acerco a la barra grasosa y le pido al cajero angurriento y estreñido con su bigotín de mariachi (el mismo viejo impresentable que trabaja en la caja del haití desde que fui por primera vez: qué ganas de joder, carajo, cuándo te vas a morir y vas a dejar de miramos con esa cara de resentido, matusalén, ojalá te dé un síncope cardíaco o un buen enfisema pulmonar con pura flema a ver si te vas de una vez y dejas paso a las nuevas generaciones de pujantes que anhelan tener una chambita así decente nomás, hermano, cajero del haití está bien para comenzar, primito), le digo al matusalén buenas, ¿me permitiría usar su teléfono si fuera tan amable?, y el viejo jijuna me dice cómo no, son cinco mil soles los tres minutos, y yo pienso viejo ratero, hijo-de-mala-madre, cinco lucas por una llamadita es un asalto a mano armada, pero ni modo, chino, saca no más tu billetera y  paga, porque tampoco vas a salir a la calle a llamar de esos teléfonos públicos que apestan a serrano piojoso y que para concha jamás funcionan, porque si alguien encuentra un teléfono público que funcione en toda la puta lima cuadrada se gana una invitación para tomar lonche con luis miguel en la rosa náutica, (y dejo aquí constancia de que yo una vez tuve mi cherry con el guapetón de luismi",0,1430
 2307,troncho,"así que bañadito, talqueadito, bien encoloniado y con mi mejor ropita comprada en miami (porque uno también viaja a miami de vez en cuando, pues, uno tampoco es un clasemediero cualquiera que compra su ropa en las  boutiques/putiques de larco), bien a la telita, decía, salgo de la casa a esa hora en que no hay nadie porque manolo ya se ha ido al colegio y mi mamá a la misa de doce de maría reina y después a sus compritas en wong, su espiritual rutina matinal, y huyo despavorido de las empleadas que están dando un jodido concierto de lavadoras, aspiradoras y lustradoras, y entro a la cochera y, maldición, no hay un solo cairo, porque, valga la aclaración, por entonces ya no tenía carro (años atrás había tenido un alfa romeo bien rico, pero lo macheteé parejo, lo maltraté de alma, y una vez zafé con mi pata charlie a paracas por semana santa y fumamos cincuenta mil tronchos en el camino y a la mañana siguiente estábamos voladazos dando vueltas por los melancólicos desiertos de paracas, que son lindos, sobre todo cuando los ves en los cuadros de szyszlo, y de repente le empezó a salir humo al pobre alfa y los dos nos cagamos de risa viendo cómo se quemaba mi lindo alfa que me había costado un buen paquete de dólares, y nos regresamos en taxi a lima, y a mi carro quemadazo lo jaló una grúa hasta lima y lo vendí a un precio ridículo, porque, claro, quién es el idiota que quiere comprarse un carro quemado, pues)",0,1430
