@@ -1,0 +1,60 @@
+text,label,label_name,tokenized_text,sent_token_length,char_count,Character Count
+Todos son chibolos,1,Neutral,Todos son chibolos,3,18,18
+No seas maricón,0,Negative,No seas maricón,3,15,15
+Tenía la peluca rubia de Pelusa en sus manos,1,Neutral,Tenía la peluca rubia de Pelusa en sus manos,9,44,44
+"Calla, rosquete gritó Gustavo",0,Negative,Calla  rosquete gritó Gustavo,4,32,32
+Ordóñez gritó: -Boten esa vaina,0,Negative,Ordóñez gritó   Boten esa vaina,5,31,31
+Que se joda la vieja por imprudente,0,Negative,Que se joda la vieja por imprudente,7,35,35
+Vamos a joder a los cabros de la Javier Prado,0,Negative,Vamos a joder a los cabros de la Javier Prado,10,45,45
+Este tío tiene un montón de plata,2,Positive,Este tío tiene un montón de plata,7,33,33
+Las cholas huyen,0,Negative,Las cholas huyen,3,17,17
+estoy voladazo,0,Negative,estoy voladazo,2,14,14
+Le ardían las manos pero seguía aplaudiendo,2,Positive,Le ardían las manos pero seguía aplaudiendo,7,43,43
+ha sido una buena nota,2,Positive,ha sido una buena nota,5,22,22
+Ya vendrán los fierros,2,Positive,Ya vendrán los fierros,4,22,22
+a ochenta centavos la vara está regalada,1,Neutral,a ochenta centavos la vara está regalada,7,40,40
+Habían roto un vidrio,0,Negative,Habían roto un vidrio,4,21,21
+No vamos a fumar ningún troncho dijo él,0,Negative,No vamos a fumar ningún troncho dijo él,8,41,41
+Peter está acostumbrado a dormir en mi cama,1,Neutral,Peter está acostumbrado a dormir en mi cama,8,43,43
+El Bebe anda medio loco,0,Negative,El Bebe anda medio loco,5,23,23
+"Sí, fue alucinante",2,Positive,Sí  fue alucinante,3,19,19
+Tratarían de sacarme plata los pendejos,0,Negative,Tratarían de sacarme plata los pendejos,6,39,39
+Más bien la pinga se me achica,0,Negative,Más bien la pinga se me achica,7,30,30
+suave que te desintegras,0,Negative,suave que te desintegras,4,24,24
+Desde chiquita,1,Neutral,Desde chiquita,2,14,14
+Puede costarle caro,0,Negative,Puede costarle caro,3,19,19
+Y tú no seas mañoso,0,Negative,Y tú no seas mañoso,5,20,20
+"- Yo me hago el loco, quiero decir el pendejo",1,Neutral,  Yo me hago el loco  quiero decir el pendejo,10,45,45
+pero falta su gaseosa pa que resbale,1,Neutral,pero falta su gaseosa pa que resbale,7,37,37
+"Qué chucha, ¿no? Da igual",0,Negative,Qué chucha  ¿no  Da igual,5,25,25
+En esta chamba estoy recién hace un mes,1,Neutral,En esta chamba estoy recién hace un mes,8,39,39
+"causa, si no tomas tu chela te la pasas pe",1,Neutral,causa  si no tomas tu chela te la pasas pe,10,43,43
+No te hagas el loco,0,Negative,No te hagas el loco,5,20,20
+"Alucina, cinco años",2,Positive,Alucina  cinco años,3,19,19
+Solo los cabros regresan,0,Negative,Solo los cabros regresan,4,24,24
+No seas cabro,0,Negative,No seas cabro,3,13,13
+"Escúchame bien, serrano conchatumadre",0,Negative,Escúchame bien  serrano conchatumadre,4,37,37
+No me chupo con mayores,1,Neutral,No me chupo con mayores,5,23,23
+A los curas no se les para la pichula,0,Negative,A los curas no se les para la pichula,9,37,37
+Era un chancón,2,Positive,Era un chancón,3,14,14
+"Si quieres ser un rosquete, jódete, pues",0,Negative,Si quieres ser un rosquete  jódete  pues,7,40,40
+Se deslizó en puntas de pie hacia la puerta,1,Neutral,Se deslizó en puntas de pie hacia la puerta,9,43,43
+"Chau, cojo",0,Negative,Chau  cojo,2,10,10
+ta huevón éste,0,Negative,ta huevón éste,3,15,15
+Joder cabros es más bacán,0,Negative,Joder cabros es más bacán,5,25,25
+Cachar un día con ella y otro conmigo,1,Neutral,Cachar un día con ella y otro conmigo,8,37,37
+Hoy reventamos a esos conchasumadres,0,Negative,Hoy reventamos a esos conchasumadres,5,36,36
+Nunca me ha gustado ser negro,0,Negative,Nunca me ha gustado ser negro,6,29,29
+"Suéltalo pe, conchatumadre",0,Negative,Suéltalo pe  conchatumadre,3,27,27
+No es mi hembrita,1,Neutral,No es mi hembrita,4,17,17
+Es una huachafita con el pelo pintado,0,Negative,Es una huachafita con el pelo pintado,7,37,37
+Estamos jodidos gritó,0,Negative,Estamos jodidos gritó,3,23,23
+"El clima estaba fresco, agradable",2,Positive,El clima estaba fresco  agradable,5,33,33
+"Cómo quieres te entienda, carajo",0,Negative,Cómo quieres te entienda  carajo,5,32,32
+están que pintan paredes como la puta madre,0,Negative,están que pintan paredes como la puta madre,8,43,43
+Pero si me ampayan me pueden botar,0,Negative,Pero si me ampayan me pueden botar,7,35,35
+con tal que me mande mis tabas,2,Positive,con tal que me mande mis tabas,7,30,30
+"Es un tipo formidable, hermano",2,Positive,Es un tipo formidable  hermano,5,30,30
+Nos hemos hecho patas,2,Positive,Nos hemos hecho patas,4,21,21
+Él la besó suavemente,2,Positive,Él la besó suavemente,4,21,21
+Dile a tu chica que se la tome ahorita mismo,1,Neutral,Dile a tu chica que se la tome ahorita mismo,10,44,44

@@ -1,0 +1,54 @@
+text,label,label_name,tokenized_text,sent_token_length,char_count,Character Count
+"Calla, huevón dijo Gustavo",0,Negative,Calla  huevón dijo Gustavo,4,29,29
+"Pero qué tontito habías sido tú, papacito",1,Neutral,Pero qué tontito habías sido tú  papacito,7,41,41
+Ese es mi cachorro,2,Positive,Ese es mi cachorro,4,18,18
+¿Y qué chucha va a pasar?,0,Negative,¿Y qué chucha va a pasar ,6,25,25
+El panetón es bien rico,2,Positive,El panetón es bien rico,5,23,23
+"Ni que yo fuera un gran cojudo, hombre",0,Negative,Ni que yo fuera un gran cojudo  hombre,8,39,39
+"Estás verde, choche",0,Negative,Estás verde  choche,3,20,20
+Tengo plata,1,Neutral,Tengo plata,2,11,11
+Odio la resaca,0,Negative,Odio la resaca,3,14,14
+YUTAY:  Yo cuando era chibolo,1,Neutral,YUTAY   Yo cuando era chibolo,5,29,29
+y no me dicen loca por las huevas,2,Positive,y no me dicen loca por las huevas,8,33,33
+"Ya estamos parejos, conchatumadre, pensó",0,Negative,Ya estamos parejos  conchatumadre  pensó,5,40,40
+"Dame un beso, maricón",0,Negative,Dame un beso  maricón,4,22,22
+"Puta, qué tal nota",0,Negative,Puta  qué tal nota,4,19,19
+Ésta va a ser la mechadera del siglo,2,Positive,Ésta va a ser la mechadera del siglo,8,36,36
+cuando venga lo voy a cuadrar,0,Negative,cuando venga lo voy a cuadrar,6,29,29
+¿Crees que soy huevón?,0,Negative,¿Crees que soy huevón ,4,22,22
+pero llegó la tombería,0,Negative,pero llegó la tombería,4,22,22
+"A ti de qué, carajo",0,Negative,A ti de qué  carajo,5,19,19
+En esta huevada tú no mandas,0,Negative,En esta huevada tú no mandas,6,28,28
+ahorita llega,1,Neutral,ahorita llega,2,13,13
+llegamos a mi depa,1,Neutral,llegamos a mi depa,4,18,18
+EL CHACAL:  Hay que hablarlo pe causa,1,Neutral,EL CHACAL   Hay que hablarlo pe causa,7,38,38
+Hablaremos mañana y espero que todo se aclare,1,Neutral,Hablaremos mañana y espero que todo se aclare,8,45,45
+Es una huachafita con el pelo pintado,0,Negative,Es una huachafita con el pelo pintado,7,37,37
+"te pusiste loco, men",0,Negative,te pusiste loco  men,4,20,20
+"Carajo, qué piñas",0,Negative,Carajo  qué piñas,3,18,18
+soy recontra taco pero soy bien rica,2,Positive,soy recontra taco pero soy bien rica,7,36,36
+Ahorita la chola te trae tu desayuno,2,Positive,Ahorita la chola te trae tu desayuno,7,36,36
+"No te me mariconees, muchacho",0,Negative,No te me mariconees  muchacho,5,29,29
+"Anda vete, sal",0,Negative,Anda vete  sal,3,14,14
+Había un chico en mi clase que era churrísimo,2,Positive,Había un chico en mi clase que era churrísimo,9,45,45
+con esa hinchada loca te sigue a donde vas,2,Positive,con esa hinchada loca te sigue a donde vas,9,43,43
+Vamos al toque,2,Positive,Vamos al toque,3,14,14
+los aliancistas son negros,0,Negative,los aliancistas son negros,4,26,26
+Los serranos son un poco brutos,0,Negative,Los serranos son un poco brutos,6,31,31
+Junto a la puerta del Colegio me crucé con él,1,Neutral,Junto a la puerta del Colegio me crucé con él,10,45,45
+Sus viejos son una ladilla,0,Negative,Sus viejos son una ladilla,5,26,26
+Solo ha sido una pichanguita,1,Neutral,Solo ha sido una pichanguita,5,28,28
+es un chibolo,1,Neutral,es un chibolo,3,13,13
+Estaba como loco,0,Negative,Estaba como loco,3,16,16
+Se sonó la nariz con su chompa,0,Negative,Se sonó la nariz con su chompa,7,30,30
+Eres un soplón,0,Negative,Eres un soplón,3,14,14
+Me lancé a la carrera,2,Positive,Me lancé a la carrera,5,21,21
+"¿Qué? Habla fuerte, carajo",0,Negative,¿Qué  Habla fuerte  carajo,4,27,27
+-¿Te hacías la paja pensando en ella? -No,0,Negative, ¿Te hacías la paja pensando en ella   No,8,41,41
+-Quiero hablar contigo,1,Neutral, Quiero hablar contigo,3,22,22
+cuando venga lo voy a cuadrar,0,Negative,cuando venga lo voy a cuadrar,6,29,29
+"Apúrate, gordo rosquete",0,Negative,Apúrate  gordo rosquete,3,24,24
+"-No he estao allí, pero ojalá te vaya bien",2,Positive, No he estao allí  pero ojalá te vaya bien,9,42,42
+Ahorita regreso,1,Neutral,Ahorita regreso,2,15,15
+Es terca como una mula,0,Negative,Es terca como una mula,5,22,22
+No tenía plata,0,Negative,No tenía plata,3,14,14
