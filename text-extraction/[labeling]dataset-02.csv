@@ -30,7 +30,7 @@ id_slang,slang,text,label,char_count
 270,carabina,Todos llevábamos la carabina lista pa disparar,0,46
 1464,planta,Marguicha fue creciendo como una planta lozana,0,46
 1876,viejo,Como tras una niebla veía aún al viejo Chauqui,0,46
-2249,pichanga,  El próximo sábado hay una pichanga,0,46
+2249,pichanga,  El próximo sábado hay una pichanga,2,46
 513,cole,"Si no quiere, dile que me escaparé del Colegio",0,46
 1865,velador,-Así me gusta - dijo ella- Ponla en el velador,0,46
 91,arrecha,Me arrechas con tu uniforme de maletero dijo,0,46
@@ -58,8 +58,8 @@ id_slang,slang,text,label,char_count
 1299,palo,Piensa: él los mata a palos y tú a editoriales,0,46
 548,concha,llora conchatumadre ¿Ves? Ya me muero carajo,0,46
 2209,pájaro,En el bosque gritaban las fieras y los pájaros,0,46
-2223,rosquete,Nadie votaría por un rosquete para presidente,0,46
-283,cargo,"Ahora, olvídese del asunto y déjelo a mi cargo",3,46
+2223,rosquete,Nadie votaría por un rosquete para presidente,3,46
+283,cargo,"Ahora, olvídese del asunto y déjelo a mi cargo",2,46
 1875,vieja,"Bah, a ti qué te puede importar que esté vieja",0,46
 365,chau,"¡Me caí, Padre! exclamó Chauca, lloriqueando",0,46
 212,caer,Entonces ella dejó caer su tenedor en el plato,0,46
@@ -81,8 +81,8 @@ id_slang,slang,text,label,char_count
 2176,flaco,"Estás flaco como un palo, mi amor dijo ella",0,46
 2176,flaco,"Estás flaco, pareces un tirifilo, un fosforito",0,46
 2115,habla,No tengo costumbre de hablar en indio decía,0,46
-1046,loco,"Después del polvito, si no mueres, quedas loco",0,46
-1020,ladilla,"No me faltes el respeto, vieja ladilla gritó",0,46
+1046,loco,"Después del polvito, si no mueres, quedas loco",3,46
+1020,ladilla,"No me faltes el respeto, vieja ladilla gritó",3,46
 1009,la canción,"Cuando terminó la canción, la abrazó y la besó",1,46
 2182,gallina,"Quemaban basuras, cenizas y gallinazos volando",0,46
 1876,viejo,¿Tu viejo sigue jalando? le preguntó Joaquín,0,46
@@ -95,23 +95,23 @@ id_slang,slang,text,label,char_count
 961,inti,La ordeñadora tenía ya cierta intimidad con él,0,46
 2149,chaveta,¿Para qué ha sacado esa chaveta? No necesitaba,0,46
 2142,cancha,"Era una cancha de cemento, rodeada de palmeras",0,46
-61,ahorita,si no tienes ganas ahorita te lo comes después,0,46
+61,ahorita,si no tienes ganas ahorita te lo comes después,2,46
 2294,plata,No me hables de plata mientras comemos dijo,0,46
 1804,toque,El tipo prendió el sauna y se calateó al toque,0,46
-2115,habla,Hablas a tu mujer como si te acabaras de casar,0,46
+2115,habla,Hablas a tu mujer como si te acabaras de casar,1,46
 1875,vieja,"Vendría disfrazada de vieja, a pie o a caballo",0,46
-1046,loco,Cuando lo dejaban encerrado se ponía como loco,0,46
+1046,loco,Cuando lo dejaban encerrado se ponía como loco,3,46
 1697,sopa,"Una sopa de pescado, pan y menestras con arroz",0,46
 1695,soli,"Y ustedes solitos la van a desarmar, sócarajos",0,46
 1102,mande,Espero que me mandes postales dijo Santiago,0,46
 1111,mano,"(CARADURA lo mira, le pasa la mano por el pelo",0,46
-2294,plata,Ahora que manejas plata ya no quieres estudiar,0,46
+2294,plata,Ahora que manejas plata ya no quieres estudiar,2,46
 136,bestia,A poco escuchóse el rumor de bestias al galope,0,46
 275,carajo,"Que tal héroe el caddie, carajo dijo Joaquín",0,46
 673,emilio,El hijito del senador don Emilio Arévalo claro,0,46
 956,incumplido,"Y tocando, tocando, no había pasos incumplidos",0,46
-1669,serrano,"Serrano, no la sueltes que a lo mejor se vuela",0,46
-942,huevón,"le digo pe, le voy a tener miedo a ese huevón",0,46
+1669,serrano,"Serrano, no la sueltes que a lo mejor se vuela",3,46
+942,huevón,"le digo pe, le voy a tener miedo a ese huevón",3,46
 1889,vivo,Concluyó la danza con una fuga de ritmo vivo,0,46
 1721,taco,Los tacos de Gamboa suenan contra las baldosas,0,46
 1368,penar,Así salió de su comunidad a penar por el mundo,0,46
@@ -135,7 +135,7 @@ id_slang,slang,text,label,char_count
 2294,plata,Hilaba y tejía y en vez de plata cobraba granos,0,47
 61,ahorita,"Estás borracho, Zavalita, ahorita ibas a llorar",0,47
 2176,flaco,"Vaya, me alegro, flaco dijo el tío Clodomiro",0,47
-2275,cuadrar,Me acaban de poner una multa por cuadrarme mal,0,47
+2275,cuadrar,Me acaban de poner una multa por cuadrarme mal,3,47
 2307,troncho,Pedro se echó en una banca y prendió un troncho,0,47
 1995,poto,"Y lávate el poto dijo Gustavo, en tono burlón",0,47
 34,tumbes,"Lo apoyan Arequipa, Cajamarca, Iquitos y Tumbes",0,47
@@ -147,18 +147,18 @@ id_slang,slang,text,label,char_count
 1505,punto,Lo Página 217  he entrevistado una vez y punto,0,47
 2103,chicha,Pidió una jarra de chicha y la bebieron parados,0,47
 2244,chibolo,"cuidado chibolo, tienes que aprender a respetar",3,47
-1948,zapatilla,Se le habían metido piedritas en las zapatillas,0,47
+1948,zapatilla,Se le habían metido piedritas en las zapatillas,2,47
 2176,flaco,¡Pero si a ese flaco puedes matarlo! exclamó,0,47
 1432,piojo,(El piojo del enfermo se reproduce de otro modo,0,47
 1962,apurímac,"Vi gente subiendo la montaña, hacia el Apurímac",0,47
 212,caer,«Esta peña se va a caer y nos aplastará a ambos,0,47
-382,chico,El chico estaba tirado en el suelo y se quejaba,0,47
+382,chico,El chico estaba tirado en el suelo y se quejaba,3,47
 511,cola,"«Colambo, Colambo», la llama con su voz cascada",0,47
 1450,pita,Dieron varias pitadas más y apagaron el troncho,0,47
 263,caño,El agua de los caños del parque me hizo vomitar,0,47
-942,huevón,"tú eres preciosa Lucía, no eres para ese huevón",0,47
-893,hermano,"Ladrón que roba a ladrón, hermano, ya sabes qué",0,47
-591,cuero,Los dos se sentaron en un viejo sillón de cuero,0,47
+942,huevón,"tú eres preciosa Lucía, no eres para ese huevón",1,47
+893,hermano,"Ladrón que roba a ladrón, hermano, ya sabes qué",2,47
+591,cuero,Los dos se sentaron en un viejo sillón de cuero,2,47
 1875,vieja,Vez que veo a una vieja me acuerdo de mi abuela,0,47
 668,el deshueve,"Sería el deshueve si te animas a venir, Joaquín",1,47
 174,burro,EL BURRO:  No sabía que teníamos que ir al Lolo,0,47
@@ -187,12 +187,12 @@ id_slang,slang,text,label,char_count
 2035,pisco,El pisco me hacía arder la garganta y lagrimear,0,47
 1894,vuelta,Te ha sacado la vuelta más de una vez dijo él,0,47
 1501,punta,"Voy a Chaclacayo ahora, a dar la última puntada",0,47
-1875,vieja,La pobre vieja ya no cocina tan bien como antes,0,47
+1875,vieja,La pobre vieja ya no cocina tan bien como antes,3,47
 587,cuchi,Veían la muerte como una clara ley del cuchillo,0,47
 1056,lora,¿Sacarlo del Ministerio? dijo el doctor Lora,0,47
 1111,mano,Sintió que las manos habían comenzado a sudarle,0,47
 265,capo,-Será una güena danza con caporales y gendarmes,0,47
-243,campana,Tocaron la campana y salimos a formar, al patio,0
+243,campana,Tocaron la campana y salimos a formar,0,0
 1111,mano,Luego se puso de pie y le dio la mano a Joaquín,0,47
 1894,vuelta,- Estaré de vuelta antes de las cinco - dijo él,0,47
 636,depa,"No bien entró al departamento, abrazó a Joaquín",0,47
@@ -213,7 +213,7 @@ id_slang,slang,text,label,char_count
 2115,habla,¿De qué estás hablando? De los deseos impuros,0,47
 293,carrera,"Ningún radioteatro, todo eran carreras y fútbol",0,47
 1858,vago,Hasta el último momento los indicios eran vagos,0,47
-988,jodido,  Debe ser jodido trabajar en la bolsa,0,47
+988,jodido,  Debe ser jodido trabajar en la bolsa,2,47
 1721,taco,Flora salió del Davory haciendo sonar sus tacos,0,47
 1284,paco,"Pluto, Helena, Emilio, el Bebe, Paco, la urgían",0,47
 1111,mano,Sus manos tropezaron luego con un fusil tendido,0,47
@@ -255,28 +255,28 @@ id_slang,slang,text,label,char_count
 2141,cana,"Es elegante, las canas le sientan dijo Queta",0,47
 1450,pita,¿Te has olvidado? -La campaña -recordó Pitaluga,0,47
 1396,pete,Joaquín puso una mano entre las piernas de Peter,0,48
-1738,tanta,Tengo tanta hambre que me comería una vaca cruda,0,48
+1738,tanta,Tengo tanta hambre que me comería una vaca cruda,2,48
 2305,tono,Sus palabras y el tono que empleaba eran fogosos,0,48
 1237,negro,"Especie de frijol, nativo, de color rojo y negro",0,48
 365,chau,"Chaucito, pues, mami, come rico, ¿ya? Chau, chau",0,48
 1505,punto,"""Ajá, dijo Gamboa, métale seis puntos al ausente",0,48
 2115,habla,Dios que habla significa el nombre de este río,0,48
 1871,verde,Los alrededores verdeaban de árboles y alfalares,0,48
-382,chico,No es la primera vez que me acuesto con un chico,0,48
+382,chico,No es la primera vez que me acuesto con un chico,2,48
 2285,mechar,¿No sabes mechar?,2,48
-1179,mi pata,Pero después se hizo mi pata y cambió de maneras,0,48
+1179,mi pata,Pero después se hizo mi pata y cambió de maneras,1,48
 258,cantar,"Todos cantaron Happy birthday, menos Luis Felipe",0,48
 75,anda,-¿Ese que anda con uniforme? - insistió la mujer,0,48
 1693,solapa,Se levantó las solapas y fue a buscar a su grupo,0,48
 1894,vuelta,Ya el pilón terminó y se dan las últimas vueltas,0,48
-2237,viejos,"Desde tiempos viejos, la batalla había sido dura",0,48
+2237,viejos,"Desde tiempos viejos, la batalla había sido dura",2,48
 891,hembrita,"¿Y tú tienes hembrita? Sí, estoy medio amarrado",0,48
 1111,mano,Estiró la mano y la puso en el hombro del Jaguar,0,48
 1965,cache,"De pronto, Luis Felipe le tiró una cachetada más",0,48
 1111,mano,Sus manos cogen una y los dientes la mordisquean,0,48
 1876,viejo,Se ha güelto viejo en el servicio de la comunidá,0,48
 791,fregar,Pero el mayor esta furioso y tratará de fregarlo,0,48
-2219,polvo,Yo he llegado a meterme ocho polvos en una noche,0,48
+2219,polvo,Yo he llegado a meterme ocho polvos en una noche,2,48
 1402,picar,Joaquín se frotó las manos y puso cara de picaro,0,48
 1526,quemar,"Ella quemará las alas de los piojos, nos salvará",0,48
 1860,vale,"Además, usted vale mucho más que todo ese dinero",0,48
@@ -285,7 +285,7 @@ id_slang,slang,text,label,char_count
 275,carajo,"Uy, carajo, ya te gustó la peluca dijo Gustavo",0,48
 57,pique,"Huevón, no te piques así, quédate unos días más",0,48
 275,carajo,"No llores, carajo, no llores dijo Luis Felipe",0,48
-941,huevo,La pobre es más fea que una patada en los huevos,0,48
+941,huevo,La pobre es más fea que una patada en los huevos,3,48
 1669,serrano,- Serrano cobarde -dijo- Te has orinado de miedo,0,48
 1894,vuelta,"Para eso mucha vuelta, siempre por el mismo lado",0,48
 435,cholo,Todos los cholos son iguales dijo Luis Felipe,0,48
@@ -301,11 +301,11 @@ id_slang,slang,text,label,char_count
 2176,flaco,"Pareces una escoba: flaco, flacuchento y pelucón",0,48
 2115,habla,El que no habla español se tiene que ir de Miami,0,48
 1894,vuelta,"Por eso, salió a dar una vuelta por Key Biscayne",0,48
-1876,viejo,Que te peleaste con el viejo y te mandaste mudar,0,48
+1876,viejo,Que te peleaste con el viejo y te mandaste mudar,2,48
 1467,playita,Veía allá abajo las dos playitas vacías del Club,0,48
 1111,mano,Ha jodido sus manos más bien trompeando la pared,0,48
 587,cuchi,Alguien puso en las manos de Doroteo un cuchillo,0,48
-275,carajo,y tengo ganas de ir a verte a donde carajo estés,0,48
+275,carajo,y tengo ganas de ir a verte a donde carajo estés,1,48
 1738,tanta,Hinostroza anda medio idiota de tanta mala noche,0,48
 243,campana,"Papá le dije, cuando cesó de tocar la campana",0,48
 1111,mano,"En una bandeja de plástico, se enjuaga las manos",0,48
@@ -334,18 +334,18 @@ id_slang,slang,text,label,char_count
 1894,vuelta,Date la vuelta y bájate el pantalón dijo Pedro,0,48
 382,chico,"Segundos después, el chico le devolvió la mirada",0,48
 2176,flaco,Después le pregunté si conocía al flaco Higueras,0,48
-513,cole,Casi siempre iba al gimnasio después del colegio,0,48
+513,cole,Casi siempre iba al gimnasio después del colegio,2,48
 2294,plata,Y pensó: te va a ofrecer plata para que te vayas,0,48
 2115,habla,Nunca hablaba en quechua en el templo de Abancay,0,48
-1875,vieja,No sé cuántos vodkas se zampó la vieja esa noche,0,48
-513,cole,Yo te esperaré a la una en la puerta del Colegio,0,48
+1875,vieja,No sé cuántos vodkas se zampó la vieja esa noche,2,48
+513,cole,Yo te esperaré a la una en la puerta del Colegio,2,48
 636,depa,Luego empujó a su esposo y entró al departamento,0,48
 1995,poto,"Guitarreo va, canto viene y los potos menudeaban",0,48
 75,anda,"Anda, levántalo para que te vea el señor Arévalo",0,48
-2307,troncho,Yo tampoco me imaginaba que tú fumabas tronchos,0,48
+2307,troncho,Yo tampoco me imaginaba que tú fumabas tronchos,2,48
 2289,paja,El techo es de paja y la pared de maguey partido,0,48
 382,chico,"Cien por ciento imposible, chicos dijo Pelusa",0,48
-1129,maricón,Pero nadie tiene por qué saber que eres maricón,0,48
+1129,maricón,Pero nadie tiene por qué saber que eres maricón,3,48
 1253,nota,"Y, además, se notaba que le gustaba lo que hacía",0,48
 2142,cancha,  Toda la movida va de frente a la cancha,0,48
 258,cantar,"Ella volvió a cantar, pero ya no era la de antes",0,48
@@ -385,7 +385,7 @@ id_slang,slang,text,label,char_count
 1954,blanca,"Yo por carne blanca y tiernecita, trabajo gratis",0,48
 1876,viejo,No sé si sabías que a mi viejo le dio un infarto,0,49
 382,chico,"Juan Manuel era un chico bajo, gordito y cachetón",0,49
-1111,mano,Se acercaron a los muchachos y les dieron la mano,0,49
+1111,mano,Se acercaron a los muchachos y les dieron la mano,2,49
 2154,chongo,"Canta, mi chochera dijo Chongo, bajando la voz",0,49
 153,bola,"Te ha mandado Bola de Oro dijo Queta, despacio",0,49
 1827,tronado,"No es por nada, pero estás tronado dijo Popeye",0,49
