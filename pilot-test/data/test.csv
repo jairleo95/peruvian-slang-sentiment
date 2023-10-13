@@ -1,62 +1,65 @@
 text,label,label_name,tokenized_text,sent_token_length,sent_bert_token_length,char_count,Character Count
-Pero él sabe que ya no tiene la menor chance,1,Neutral,Pero él sabe que ya no tiene la menor chance,10,10,44,44
-"No me toques, caracho",0,Negative,"No me toques, caracho",4,6,21,21
-"Ahora trae una bolsa, carajo",0,Negative,"Ahora trae una bolsa, carajo",5,6,28,28
-"Me muero, Chacal",0,Negative,"Me muero, Chacal",3,5,16,16
-Con los años vas aprendiendo a tirar cache,1,Neutral,Con los años vas aprendiendo a tirar cache,8,8,42,42
-¿Sabes lo que eres? Un soplón,0,Negative,¿Sabes lo que eres? Un soplón,6,8,29,29
-bien chévere,2,Positive,bien chévere,2,3,12,12
-soy recontra taco pero soy bien rica,2,Positive,soy recontra taco pero soy bien rica,7,7,36,36
-La gente me alucinaba pastrulazo y yo nada,0,Negative,La gente me alucinaba pastrulazo y yo nada,8,12,42,42
-"Cinco pobres diablos, para remate uno de ellos viejo y con soroche",0,Negative,"Cinco pobres diablos, para remate uno de ellos viejo y con soroche",12,16,67,67
-Hoy sales de la categoría pajeros y entras a la categoría cacheritos,0,Negative,Hoy sales de la categoría pajeros y entras a la categoría cacheritos,12,15,68,68
-Y todos los demás son campanas,0,Negative,Y todos los demás son campanas,6,7,30,30
-y les podría caer un dinerito,2,Positive,y les podría caer un dinerito,6,8,29,29
-Que se achicharren estas calatas sinvergüenzas,0,Negative,Que se achicharren estas calatas sinvergüenzas,6,10,47,47
-Que se vayan al carajo,0,Negative,Que se vayan al carajo,5,5,22,22
-"Raúl era moreno, decía lisuras y escupía a cada rato",0,Negative,"Raúl era moreno, decía lisuras y escupía a cada rato",10,13,52,52
-No seas fregado,0,Negative,No seas fregado,3,4,15,15
-Pégame cabrón que cuando te agarre afuera vas a llorar,0,Negative,Pégame cabrón que cuando te agarre afuera vas a llorar,10,11,54,54
-"llego al edificio con olor a mondonguito y toco el timbre y pienso ojalá que no esté la cara de perro y escucho gabriel, un grito así bien recio y achorado",1,Neutral,"llego al edificio con olor a mondonguito y toco el timbre y pienso ojalá que no esté la cara de perro y escucho gabriel, un grito así bien recio y achorado",31,36,155,155
-eres mi causa,2,Positive,eres mi causa,3,3,13,13
-¿Qué es eso? Un club de cucufatos pitucos,0,Negative,¿Qué es eso? Un club de cucufatos pitucos,8,12,43,43
-tanta huevada,0,Negative,tanta huevada,2,3,13,13
-Vamos a ver cómo están las gringas,2,Positive,Vamos a ver cómo están las gringas,7,8,35,35
-Desde chiquita,1,Neutral,Desde chiquita,2,2,14,14
-"- Yo me hago el loco, quiero decir el pendejo",1,Neutral,"- Yo me hago el loco, quiero decir el pendejo",10,10,45,45
-"En el Perú, uno es militar por las puras huevas del diablo",0,Negative,"En el Perú, uno es militar por las puras huevas del diablo",12,13,58,58
-"Si no, el tráfico es una pinga",0,Negative,"Si no, el tráfico es una pinga",7,8,30,30
-"Estás verde, choche",0,Negative,"Estás verde, choche",3,4,20,20
-Enantes subió al sol,1,Neutral,Enantes subió al sol,4,5,20,20
-mi hermana está en la jato con mi vieja,1,Neutral,mi hermana está en la jato con mi vieja,9,10,39,39
-Me enseñó pendejada y media,0,Negative,Me enseñó pendejada y media,5,5,27,27
-"pa qué vamos a buscar problemas, tranquilo",1,Neutral,"pa qué vamos a buscar problemas, tranquilo",7,7,43,43
-"Qué salado eres, caray",0,Negative,"Qué salado eres, caray",4,5,22,22
-Bailaron cogidos de la cintura,2,Positive,Bailaron cogidos de la cintura,5,7,30,30
-"¿Qué? Habla fuerte, carajo",0,Negative,"¿Qué? Habla fuerte, carajo",4,5,27,27
-"Yo la conozco, huevón",0,Negative,"Yo la conozco, huevón",4,5,22,22
-"Yo soy Misterio, conchasumadre",0,Negative,"Yo soy Misterio, conchasumadre",4,8,30,30
-Anda a tu casa,1,Neutral,Anda a tu casa,4,4,14,14
-Si da otra vuelta de campana te aplasta,0,Negative,Si da otra vuelta de campana te aplasta,8,9,39,39
-"Sería el deshueve si te animas a venir, Joaquín",2,Positive,"Sería el deshueve si te animas a venir, Joaquín",9,12,47,47
-Vas a ver qué rico culean esas cholitas,2,Positive,Vas a ver qué rico culean esas cholitas,8,10,39,39
-"Unos negros asquerosos, amor",0,Negative,"Unos negros asquerosos, amor",4,5,28,28
-"No, también es feriado para la chamba",1,Neutral,"No, también es feriado para la chamba",7,7,37,37
-Hace un frío del carajo,0,Negative,Hace un frío del carajo,5,5,23,23
-"Y el que nace cholo, muere cholo",1,Neutral,"Y el que nace cholo, muere cholo",7,8,32,32
-En ese campo jugaban los alumnos del Colegio,1,Neutral,En ese campo jugaban los alumnos del Colegio,8,9,44,44
-"Anda vete, sal",0,Negative,"Anda vete, sal",3,4,14,14
-"El cachaco me dio un puñete en la boca y gritó:no digas lisuras a la niña, maleante""",0,Negative,"El cachaco me dio un puñete en la boca y gritó:no digas lisuras a la niña, maleante""",17,25,85,85
+¿Qué te pasa oye? ¿Por qué estás así todo achorado?,0,Negative,¿Qué te pasa oye? ¿Por qué estás así todo achorado?,10,13,52,52
+No seas maricón,0,Negative,No seas maricón,3,4,15,15
+es un chibolo,1,Neutral,es un chibolo,3,5,13,13
+No me chupo con mayores,1,Neutral,No me chupo con mayores,5,5,23,23
+Un soplón de porquería,0,Negative,Un soplón de porquería,4,5,22,22
+"Eres un enfermo, conchatumadre",0,Negative,"Eres un enfermo, conchatumadre",4,7,30,30
+El próximo sábado hay una pichanga,1,Neutral,El próximo sábado hay una pichanga,6,8,34,34
+Fui un huevón,0,Negative,Fui un huevón,3,4,13,13
+"El día que ellos vengan, tú zafas al toque",1,Neutral,"El día que ellos vengan, tú zafas al toque",9,11,42,42
+cuando venga lo voy a cuadrar,0,Negative,cuando venga lo voy a cuadrar,6,7,29,29
+Un día me cae un piedrón y la cagada,0,Negative,Un día me cae un piedrón y la cagada,9,11,36,36
+Es una huachafita con el pelo pintado,0,Negative,Es una huachafita con el pelo pintado,7,11,37,37
+Y quizá te manden a la cárcel,0,Negative,Y quizá te manden a la cárcel,7,7,29,29
+Mis viejos me han hecho la vida imposible,0,Negative,Mis viejos me han hecho la vida imposible,8,8,41,41
+"Cuando oí los pitazos, los balazos y los carajos salí corriendo hacia ellos, pero me di cuenta que estaban ensartados: en la esquina había tres patrulleros",0,Negative,"Cuando oí los pitazos, los balazos y los carajos salí corriendo hacia ellos, pero me di cuenta que estaban ensartados: en la esquina había tres patrulleros",26,32,155,155
+"Cholo miserable, cobarde",0,Negative,"Cholo miserable, cobarde",3,4,24,24
+el periodismo ha hecho un chongo con el caso del huevón ese,0,Negative,el periodismo ha hecho un chongo con el caso del huevón ese,12,13,59,59
+Estaba templado de sus tetas,2,Positive,Estaba templado de sus tetas,5,6,28,28
+Ya le dije enantes,1,Neutral,Ya le dije enantes,4,5,18,18
 Quédate con esa plata y déjame ir,0,Negative,Quédate con esa plata y déjame ir,7,7,33,33
-¿Crees que soy huevón?,0,Negative,¿Crees que soy huevón?,4,6,22,22
-Me la quiso chupar,1,Neutral,Me la quiso chupar,4,4,18,18
-Saltó otro zambo y nos mechamos,0,Negative,Saltó otro zambo y nos mechamos,6,9,31,31
-Dale U carajo,2,Positive,Dale U carajo,3,3,13,13
-¿cómo? es que no tengo plata,0,Negative,¿cómo? es que no tengo plata,6,7,28,28
-Ahorita la chola te trae tu desayuno,2,Positive,Ahorita la chola te trae tu desayuno,7,8,36,36
-Los amigos comienzan a beber pisco y una mujer obesa les repite las copas advirtiendo que es puro de Ica y parece que ellos lo saben apreciar,1,Neutral,Los amigos comienzan a beber pisco y una mujer obesa les repite las copas advirtiendo que es puro de Ica y parece que ellos lo saben apreciar,27,31,141,141
-Acuérdate que todas son cachables,1,Neutral,Acuérdate que todas son cachables,5,7,33,33
-¿No jodas que lo ampayaron comprando coca?,0,Negative,¿No jodas que lo ampayaron comprando coca?,7,10,43,43
-tremenda fiesta se armó en mi depa,2,Positive,tremenda fiesta se armó en mi depa,7,8,34,34
+Primero me sales con que eres maricón,0,Negative,Primero me sales con que eres maricón,7,8,37,37
+"le digo pe, le voy a tener miedo a ese huevón",0,Negative,"le digo pe, le voy a tener miedo a ese huevón",11,13,46,46
+Ahora que manejas plata ya no quieres estudiar,1,Neutral,Ahora que manejas plata ya no quieres estudiar,8,9,46,46
+Ahorita vengo,1,Neutral,Ahorita vengo,2,2,13,13
 "Hazlo por tu mamacita, que ya está vieja",2,Positive,"Hazlo por tu mamacita, que ya está vieja",8,9,40,40
-"no me gustan las chelas, jimmy",2,Positive,"no me gustan las chelas, jimmy",6,7,30,30
+Joaquín sacó su billetera y le dio su brevete,1,Neutral,Joaquín sacó su billetera y le dio su brevete,9,10,45,45
+"Alucina ese comentario, qué salvaje tu pata",0,Negative,"Alucina ese comentario, qué salvaje tu pata",7,9,44,44
+"Chau, amorcito, un besito en el ombligo",2,Positive,"Chau, amorcito, un besito en el ombligo",7,10,39,39
+Y lo mejor es que no hay cholos,0,Negative,Y lo mejor es que no hay cholos,8,9,31,31
+así chibolo ah,1,Neutral,así chibolo ah,3,5,14,14
+Era blanca y fina y tenía fama de compasiva,2,Positive,Era blanca y fina y tenía fama de compasiva,9,10,43,43
+El maletero no volteó,0,Negative,El maletero no volteó,4,6,21,21
+Hablaremos mañana y espero que todo se aclare,1,Neutral,Hablaremos mañana y espero que todo se aclare,8,9,45,45
+"Estás verde, choche",0,Negative,"Estás verde, choche",3,4,20,20
+"Abre, carajo gritó",0,Negative,"Abre, carajo gritó",3,5,20,20
+"Yo soy Misterio, saco mi fierro y te mato",0,Negative,"Yo soy Misterio, saco mi fierro y te mato",9,10,41,41
+mañana tengo que chambear,1,Neutral,mañana tengo que chambear,4,6,25,25
+"Se quemaron por pajeros, se quemaron por pajeros gritaban unos muchachos, riéndose de la gente que salía a toda prisa del Colón",0,Negative,"Se quemaron por pajeros, se quemaron por pajeros gritaban unos muchachos, riéndose de la gente que salía a toda prisa del Colón",22,28,129,129
+"Una cana al aire de vez en cuando, Cayo",1,Neutral,"Una cana al aire de vez en cuando, Cayo",9,9,39,39
+"Piensa: debe ser rico llegar a tu casa y que tu esposa te prepare una buena comida, que tenga tus camisas planchaditas, que te corte las uñas y te eche talquito en los huevos, que tus chibolos jueguen contigo y te hagan cagar de risa",2,Positive,"Piensa: debe ser rico llegar a tu casa y que tu esposa te prepare una buena comida, que tenga tus camisas planchaditas, que te corte las uñas y te eche talquito en los huevos, que tus chibolos jueguen contigo y te hagan cagar de risa",45,52,233,233
+"Y él: era una vivísima, se conseguirá otro platudo antes de que cante un gallo",1,Neutral,"Y él: era una vivísima, se conseguirá otro platudo antes de que cante un gallo",15,21,78,78
+"Sería el deshueve si te animas a venir, Joaquín",2,Positive,"Sería el deshueve si te animas a venir, Joaquín",9,12,47,47
+Debe ser jodido trabajar en la bolsa,1,Neutral,Debe ser jodido trabajar en la bolsa,7,7,36,36
+Vas a ver qué rico culean esas cholitas,2,Positive,Vas a ver qué rico culean esas cholitas,8,10,39,39
+"Sería mostro, flaco",2,Positive,"Sería mostro, flaco",3,5,20,20
+"no nos ganan, hermano, no nos ganan",2,Positive,"no nos ganan, hermano, no nos ganan",7,8,35,35
+Solo ha sido una pichanguita,1,Neutral,Solo ha sido una pichanguita,5,7,28,28
+"Al toque, Coqui",1,Neutral,"Al toque, Coqui",3,4,16,16
+Hablas a tu mujer como si te acabaras de casar,2,Positive,Hablas a tu mujer como si te acabaras de casar,10,11,46,46
+CARADURA:  ¡Qué bacán!,2,Positive,CARADURA:  ¡Qué bacán!,3,7,22,22
+Estamos con la bajada,0,Negative,Estamos con la bajada,4,4,21,21
+Estás fregado,0,Negative,Estás fregado,2,3,13,13
+-Te ha dejado plantado,0,Negative,-Te ha dejado plantado,4,5,22,22
+"Tú parece que hablaras por el poto, muchacho",0,Negative,"Tú parece que hablaras por el poto, muchacho",8,10,44,44
+A ti te ha fregado,0,Negative,A ti te ha fregado,5,6,18,18
+"Cinco pobres diablos, para remate uno de ellos viejo y con soroche",0,Negative,"Cinco pobres diablos, para remate uno de ellos viejo y con soroche",12,16,67,67
+EL CHACAL:  Hay que hablarlo pe causa,1,Neutral,EL CHACAL:  Hay que hablarlo pe causa,7,11,38,38
+"No seas rosquete, pecoso",0,Negative,"No seas rosquete, pecoso",4,7,24,24
+Mis viejos me han hecho la vida imposible,0,Negative,Mis viejos me han hecho la vida imposible,8,8,41,41
+con esa hinchada loca te sigue a donde vas,2,Positive,con esa hinchada loca te sigue a donde vas,9,9,43,43
+"Si don Armando te escucha decir lisuras, te vas a fregar dijo Juan Manuel",0,Negative,"Si don Armando te escucha decir lisuras, te vas a fregar dijo Juan Manuel",14,17,75,75
+Siempre fue un maricón,0,Negative,Siempre fue un maricón,4,5,22,22
+y no me dicen loca por las huevas,2,Positive,y no me dicen loca por las huevas,8,9,33,33
+tú eres bacán ¿no?,0,Negative,tú eres bacán ¿no?,4,5,18,18
