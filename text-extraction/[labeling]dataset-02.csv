@@ -233,7 +233,7 @@ id_slang,slang,text,label,char_count
 636,depa,"Para que me ayudes a buscar departamento, listo",0,47
 513,cole,Y el Markaska no vino en la tarde al Colegio,0,47
 2299,sapo,La garza volteó y ordenó al sapo: «Canta ahora»,0,47
-1669,serrano,Al Serrano cualquiera le mete el dedo a la boca,0,47
+1669,serrano,Al Serrano cualquiera le mete el dedo a la boca,3,47
 1889,vivo,Yo jui a buscar un güey y encontré el puma vivo,0,47
 1964,botar,"¿Qué iba a pasar ahora? Nada, no la iba a botar",0,47
 846,guarda,Los testigos de su derrota guardaron el secreto,0,47
@@ -428,7 +428,7 @@ id_slang,slang,text,label,char_count
 1450,pita,-Claro - dijo Pitaluga- Tú eres el oficial modelo,0,49
 511,cola,Nos quedamos con la cabeza y te regalamos la cola,0,49
 1383,perra,Pero lo más raro del caso es que la perra se curó,0,49
-942,huevón,  Vamos a poner a un huevón más y nos vamos,0,49
+942,huevón,  Vamos a poner a un huevón más y nos vamos,3,49
 1237,negro,"El chofer era un negro grandote, recontrapendejo",0,49
 435,cholo,Los otros cholos acudieron con los fierros al fin,0,49
 1636,san martín,"Santiago recorrió la Colmena, la plaza San Martín",0,49
@@ -487,7 +487,7 @@ id_slang,slang,text,label,char_count
 1781,tira,Creías que te iba a tirar piedras dijo Santiago,0,49
 1237,negro,"Era una chica baja, un poco morena, de pelo negro",0,49
 1464,planta,La más triste planta camina tierra con sus raíces,0,49
-2115,habla,A veces, pero tú no podrás hablar con los indios,0
+2115,habla,A veces,0,0
 2115,habla,"-Tengo que hablar contigo -dice ella, bruscamente",0,49
 587,cuchi,Entonces se acercó a Joaquín y le dio un cuchillo,0,49
 1875,vieja,Tenía miedo que la vieja me largara dijo Queta,0,49
@@ -514,7 +514,7 @@ id_slang,slang,text,label,char_count
 1111,mano,¿Te lo arrancharon de las manos? dice Santiago,0,49
 1111,mano,Le dio la mano a Joaquín y caminó hacia la puerta,0,49
 1048,lomo,Se rompió los lomos para criarme y darme de comer,0,49
-2249,pichanga,Después de una pichanga siempre terminas llorando,0,49
+2249,pichanga,Después de una pichanga siempre terminas llorando,3,49
 1111,mano,El se dejaba gritar y dar manotazos sin protestar,0,49
 164,brincar,"Comienza a brincar y a hurgar la tierra, a correr",0,49
 642,descansar,"Claro que no es un hotel, pero se puede descansar",0,49
@@ -523,7 +523,7 @@ id_slang,slang,text,label,char_count
 2236,tranqui,"El gris es tranquilo, más bien tímido les dijo",0,49
 513,cole,en el colegio dijeron que es pecado jurar en vano,0,49
 1876,viejo,Yo creía que mi viejo te despidió dice Santiago,0,49
-2258,arrecho,Me encanta sentir que te arrecho un montón dijo,0,49
+2258,arrecho,Me encanta sentir que te arrecho un montón dijo,3,49
 1695,soli,"Se loqueó solito, se tiró de bruces solito, señor",0,49
 1477,polla,"No creía en la Polla, pero voy a empezar a jugarle",0,50
 2176,flaco,El flaco quiso discutir pero los otros lo callaron,0,50
@@ -538,8 +538,8 @@ id_slang,slang,text,label,char_count
 1393,pescar,Sería graciosísimo que nos pescara aquí a los tres,0,50
 2115,habla,"Debían vigilarlos, pues no me hablaron desde fuera",0,50
 1644,sanguchería,Acompáñame a la sanguchería de enfrente le dijo,0,50
-61,ahorita,"Bueno, entonces voy a hablar con él ahorita mismo",0,50
-372,cherry,"Con razón estás tan fit, mi cherry dijo Charitín",0,50
+61,ahorita,"Bueno, entonces voy a hablar con él ahorita mismo",2,50
+372,cherry,"Con razón estás tan fit, mi cherry ",1,50
 893,hermano,El Hermano se apaciguó y permaneció junto a Lleras,0,50
 265,capo,"Dos caporales salieron al corredor, conversando, y",0,50
 187,cacha,"Además del fútbol, le gustaba el box, el cachascán",0,50
@@ -578,17 +578,17 @@ id_slang,slang,text,label,char_count
 1597,rocote,"No había allí zorzales, ni huanchacos ni rocoteros",0,50
 1419,pieza,"Al ingresar en la pieza, entornó un poco la puerta",0,50
 288,caro,"Soy Carolina Gonzales, la administradora del hotel",0,50
-1046,loco,"Pero ella dice que le gustas, por loco, por huraño",0,50
-275,carajo,"Qué vergüenza me has hecho pasar con Sixto, carajo",0,50
+1046,loco,"Pero ella dice que le gustas, por loco, por huraño",1,50
+275,carajo,"Qué vergüenza me has hecho pasar con Sixto, carajo",3,50
 1894,vuelta,¿Alguna vez le has sacado la vuelta? preguntó él,0,50
-2294,plata,Yo si tuviera plata me iría del Perú mañana mismo,0,50
+2294,plata,Yo si tuviera plata me iría del Perú mañana mismo,2,50
 765,ferro,Ferro y los demás deben al régimen todo lo que son,0,50
 1876,viejo,"Una guerra a muerte contra el viejo, para hundirlo",0,50
 513,cole,¿Se da usted cuenta? En parte es culpa del colegio,0,50
 2144,cayetano,"Mira, ahí hay una pastelería le dijo a Cayetano",0,50
 275,carajo,"Au, carajo, el cabro me ha mordido gritó Gustavo",0,50
 2045,buenazo,Podemos jugar un juego que es buenazo dijo Jorge,0,50
-275,carajo,"Yo no sé por qué se eructa tanto en España, carajo",0,50
+275,carajo,"Yo no sé por qué se eructa tanto en España, carajo",3,50
 1046,loco,"¿Montándosela? No, don, mirándola con ojos de loco",0,50
 673,emilio,"Claro que puede, Lozano dijo don Emilio Arévalo",0,50
 1111,mano,Alargó la otra mano y cogió el otro brazo de Queta,0,50
@@ -607,7 +607,7 @@ id_slang,slang,text,label,char_count
 1505,punto,Había estado a punto de soltar a Amalita Hortensia,0,50
 1111,mano,Era difícil quebrar con las propias manos una vida,0,50
 1253,nota,Nunca se la notaba ansiosa de que el señor viniera,0,50
-382,chico,Nunca había tenido ganas de acostarme con un chico,0,50
+382,chico,Nunca había tenido ganas de acostarme con un chico,2,50
 382,chico,Lo que pasa es que me gustan los chicos dijo él,0,50
 1501,punta,Imagínate que hasta rezamos un rosario en la punta,0,50
 1880,violín,Es la orquesta común en los pueblos: violín y arpa,0,50
@@ -617,9 +617,9 @@ id_slang,slang,text,label,char_count
 1889,vivo,"¿Vives con tu familia? Página 253  No, vivo sola",0,50
 2115,habla,Los servidores de la Virgen no hablan sino quechua,0,50
 1966,calato,"Porque si le entra al ojo, va a ver a judas calato",0,50
-1129,maricón,"Por supuesto, no tenía idea que mi tío era maricón",0,50
-942,huevón,una cosa es ser valiente y otra cosa es ser huevón,0,50
-2115,habla,Joaquín escuchó que todos ellos hablaban en inglés,0,50
+1129,maricón,"Por supuesto, no tenía idea que mi tío era maricón",3,50
+942,huevón,una cosa es ser valiente y otra cosa es ser huevón,3,50
+2115,habla,Joaquín escuchó que todos ellos hablaban en inglés,2,50
 2115,habla,Y yo me puse a hablar de política dice Santiago,0,50
 591,cuero,Entraron varios hombres vistiendo casacas de cuero,0,50
 174,burro,Matador para todos menos para el burro de Hipólito,0,50
@@ -638,13 +638,13 @@ id_slang,slang,text,label,char_count
 432,chola,¿Tú sabes cómo me la culeé a la chola Eugenia? No,0,50
 893,hermano,Me recuerdas mucho a mi hermano le dijo Joaquín,0,50
 788,franco,"Pa ser franco, yo y otros queremos hacerte regidor",0,50
-1463,plancito,"¡Ah, tienes un plancito, cholifacio! Buen provecho",0,50
+1463,plancito,"¡Ah, tienes un plancito, cholifacio! Buen provecho",1,50
 414,chispas,"Lo dices, pero no es cierto se quejó el Chispas",0,50
 2204,mosca,El pobre no podría matar una mosca aunque quisiera,0,50
 414,chispas,"Dirá que también tú robas, papá dijo el Chispas",0,50
 1317,paradero,Ambrosio la acompañó hasta el paradero del tranvía,0,50
 777,flete,"¿Y cómo te mantienes? Chambeando como flete, pues",0,50
-2307,troncho,  ¿Alguien tiene un troncho?  YUTAY:  Toma,0,50
+2307,troncho,  ¿Alguien tiene un troncho?,2,50
 2310,volar,"Awankay es volar planeando, mirando la profundidad",0,50
 414,chispas,Más bien di culpa del Chispas lo consoló Popeye,0,50
 1197,mocoso,"Te mandaré a la Sandra, que le gustan los mocosos""",0,50
@@ -675,7 +675,7 @@ id_slang,slang,text,label,char_count
 2161,cojudo,Los gringos eran tan cojudos que ni cuenta se daban,0,51
 187,cacha,"Y Trifulcio: pero ahí había un par de cachacos, don",0,51
 1875,vieja,La vieja ya debe haber dormido con todo el santoral,0,51
-2160,coima,Tuvo que pagar una coima de la gran puta para salir,0,51
+2160,coima,Tuvo que pagar una coima de la gran puta para salir,3,51
 513,cole,Yo sí me acuerdo de ti en el colegio dijo Joaquín,0,51
 206,cacho,"Los cachorros que ya eran tigres y leones, Zavalita",0,51
 1959,profe,"Que jueran médicos, ingenieros, abogaos, profesores",0,51
@@ -761,7 +761,7 @@ id_slang,slang,text,label,char_count
 890,helena,"Helena afirmó con la cabeza y dijo: ""al cine Leuro""",0,51
 414,chispas,"Deja que se ocupe el Chispas, papá dijo Santiago",0,51
 1541,radiola,"¿Hablan? La radiola deja de tronar, truena de nuevo",0,51
-1094,mamey,"Yo tengo buen aguante, pero esta cubana es de mamey",0,51
+1094,mamey,"Yo tengo buen aguante, pero esta cubana es de mamey",2,51
 765,ferro,"Arbeláez, el idiota de Ferro, incluso usted, Fermín",0,51
 136,bestia,La conquista de sus bestias no había sido muy fácil,0,51
 1914,y nada,Llegaban juntos y nada decían ni entre ellos mismos,0,51
@@ -794,7 +794,7 @@ id_slang,slang,text,label,char_count
 1709,suave,"Por ley, nalga derecha es más suavecita dijo Akira",0,52
 778,fletero,Los muelles de fleteros y de guerra hervían de gente,0,52
 636,depa,"Diez minutos más tarde, ella llegó a su departamento",0,52
-834,gringa,"Augustito vive con su hembrita, una gringa coqueraza",0,52
+834,gringa,"Augustito vive con su hembrita, una gringa coqueraza",1,52
 636,depa,Estamos llevando las ánforas al Jurado Departamental,0,52
 630,de vuelta,Pedro soltó una carcajada que el eco trajo de vuelta,0,52
 513,cole,Y ahora está en el internado de un Colegio religioso,0,52
@@ -885,11 +885,11 @@ id_slang,slang,text,label,char_count
 419,chivo,"Los chivos tenían numerosas vacas, ovejas y caballos",0,52
 61,ahorita,Lo malo es que yo ahorita no tengo ningún documento,0,52
 499,cochino,Nuestro hijo es un cochino del sexo dijo Maricucha,0,52
-446,chotear,¿No jodas que te chotearon de la universidad? dijo,0,52
+446,chotear,¿No jodas que te chotearon de la universidad? ,3,52
 2289,paja,La camarada ya explicó susurró la voz de pajarito,0,52
 1111,mano,Luego se llevó las manos a la cara y rompió a llorar,0,52
 46,jato,siempre que voy desde mi jato al estadio me lo pongo,2,52
-2136,cabro,"Si quieres ver cabros, mejor vamos a la Javier Prado",0,52
+2136,cabro,"Si quieres ver cabros, mejor vamos a la Javier Prado",2,52
 898,hincha,"La hinchada estará presente, aunque no vayas primero",0,52
 793,fresco,"Vamos al fresco dijo, y abrió una puerta corrediza",0,52
 1111,mano,Dioni se llevó una mano a la nariz: estaba sangrando,0,52
@@ -904,7 +904,7 @@ id_slang,slang,text,label,char_count
 1111,mano,Sentí que el zumbayllu giraba en la palma de mi mano,0,52
 846,guarda,"Es que ahora se roba guardando ciertas formas, papá",0,52
 2115,habla,"En realidad, no había hablado con él en mucho tiempo",0,52
-1128,marico,Jamás me imaginé que hubiese tantos maricones en Lima,0,53
+1128,marico,Jamás me imaginé que hubiese tantos maricones en Lima,2,53
 1253,nota,Porque aunque te pongas no se te nota dijo Santiago,0,53
 1098,mancha,"Ahora ya estás manchada dijo Luis Felipe, riéndose",0,53
 525,colorado,"Estás colorado como camarón dijo Foncho, sonriendo",0,53
@@ -1051,7 +1051,7 @@ id_slang,slang,text,label,char_count
 459,chup,"Te quiero dijo Peter, mientras Joaquín se la chupaba",0,54
 1253,nota,"Pero si nota algo, que hagan luz rápido y mande avisar",0,54
 1502,puntas,YUTAY:  ¿Cuántas puntas?  EL NENE:  Son como cincuenta,0,54
-275,carajo,"Después del susto, tuvimos una conversación del carajo",0,54
+275,carajo,"Después del susto, tuvimos una conversación del carajo",3,54
 1959,profe,"Consuélate, la profecía no se cumplió dijo Carlitos",0,54
 1383,perra,"Quieta, perra, saca tus malditos dientes, Malpapeadita",0,54
 275,carajo,"Dale con tu maldita mancha, carajo dijo Luis Felipe",0,54
@@ -1088,7 +1088,7 @@ id_slang,slang,text,label,char_count
 1876,viejo,"¿yo le caigo mal a tus viejos?  MISTERIO:  No, hermano",0,54
 263,caño,Que los apristas iban a venir a rescatarlo con cañones,0,54
 893,hermano,"Y cómo se te ocurre decirle maldito a tu hermano, loca",0,54
-2294,plata,"No has debido gastar así tu plata, sonsa dijo Popeye",0,54
+2294,plata,"No has debido gastar así tu plata, sonsa ",3,54
 2216,pichi,La metieron adentro junto con una pichicatera conocida,0,54
 1317,paradero,Bajó en el paradero de la avenida 28 de julio y Wilson,0,54
 1111,mano,La mano del Esclavo se incrusta en el brazo de Alberto,0,54
@@ -1148,7 +1148,7 @@ id_slang,slang,text,label,char_count
 988,jodido,"Por Llaque y por Washington, ellos son los más jodidos",0,54
 2115,habla,"Habla, habla y yo sé lo que le está pasando por adentro",0,55
 893,hermano,"Mañana, antes de la partida del Hermano habló Chauca",0,55
-1993,picón,"Eres un picón, un picón de mierda gritó Juan Ignacio",0,55
+1993,picón,"Eres un picón, un picón de mierda ",3,55
 2044,lisura,  ¿Qué dijimos de las lisuras?,3,55
 2115,habla,"""Lo raro, pensó Alberto, es que tampoco le habla al Boa",0,55
 2115,habla,"Qué lindo habla mi Joaquín, caracho murmuró Maricucha",0,55
@@ -2466,8 +2466,8 @@ id_slang,slang,text,label,char_count
 1876,viejo,Sentáronse formando rueda y el viejo se puso a jugar con su nieto,0,65
 1464,planta,Muy pequeño leí Mi planta de naranja lima y decidí ser escritor,0,65
 2316,pata,"¿No somos patas, Santiago?, anda, dame un empujoncito con la Teté",0,65
-2249,pichanga,"Todos los fines de semana, una pichanga sin falta dijo Joaquín",0,65
-891,hembrita,"¿Quedó bonito cuando hablé de mi hembrita? Superbién, superbién",0,65
+2249,pichanga,"Todos los fines de semana, una pichanga sin falta ",2,65
+891,hembrita,¿Quedó bonito cuando hablé de mi hembrita? ,1,65
 673,emilio,"El señor Lozano le dijo a don Emilio cinco y aquí estamos, doctor",0,65
 2294,plata,"Ya se había hecho tarde, y no tenía plata para alquilar un cuarto",0,65
 2176,flaco,"El flaco abrió un cajón, sacó una pistola y la puso sobre la mesa",0,65
@@ -2479,13 +2479,13 @@ id_slang,slang,text,label,char_count
 61,ahorita,"Anda más despacio, que ahorita aparecen los cabros dijo Gustavo",0,65
 1111,mano,"Gamboa se pasea frente a los brigadieres, las manos en la cintura",0,65
 1875,vieja,"Allá es fácil, un montón de viejas saben preparar yerbas para eso",0,65
-435,cholo,"Pero no pueden, pues, porque ellos son cholos, brownies, huanacos",0,65
+435,cholo,"Pero no pueden, pues, porque ellos son cholos, brownies, huanacos",3,65
 891,hembrita,Me dijo que tú necesitas montar hembritas para hacerte bien macho,0,65
 75,anda,"  ¿Te vengo a buscar?  MISTERIO:  No, anda por tu cuenta",0,65
-2044,lisura,"De malas maneras; con lisuras, amenazando, confiesa o vas adentro",0,65
+2044,lisura,"De malas maneras; con lisuras, amenazando, confiesa o vas adentro",3,65
 2115,habla,"No hace más que hablar mal de usted mismo, niño dice Ambrosio ",0,65
 1700,soplón,""" -Eres un soplón, Jaguar -afirmó Arróspide- Te lo vuelvo a decir",0,65
-934,huevada,Pero hay mucha gente que cuando está armada lorea huevada y media,0,65
+934,huevada,Pero hay mucha gente que cuando está armada lorea huevada y media,3,65
 1427,pinga,"Ya sabía que me ibas a salir pingaloca, carajo dijo Luis Felipe",0,65
 1237,negro,"Era alto, delgado, de pelo negro, cara alargada y marcadas ojeras",0,65
 136,bestia,"Al asunto lo he metido en la casa del alcalde, con bestias y todo",0,65
@@ -2493,7 +2493,7 @@ id_slang,slang,text,label,char_count
 317,chacal,  Con el Boys estabas con un polo que nunca había visto,0,65
 317,chacal,"¿Qué pasa, huevón?    Ya cállense, estamos entre cremas",0,65
 332,chamo,"A propósito, sácate el chamo, pues, Gustavito dijo Juan Carlos",0,65
-1432,piojo,"Los soldados que llegan al cuartel son sucios, piojosos, ladrones",0,65
+1432,piojo,"Los soldados que llegan al cuartel son sucios, piojosos, ladrones",3,65
 636,depa,Así que el departamento Regálaselo a los pobres dijo Santiago,0,65
 2127,alucina,Alucina que tuvimos que llevarla de emergencia a la clínica Tezza,0,65
 167,bronca,"¿Ese es tu problema? Yo te voy a enseñar a tirar bronca, muchacho",0,65
@@ -2549,13 +2549,13 @@ id_slang,slang,text,label,char_count
 893,hermano,"Gracias, Alfonsito dijo Tati, y besó a su hermano en la mejilla",0,65
 513,cole,No estoy de acuerdo en que vaya interno a un colegio de militares,0,65
 2233,trampa,Aquí se ha estado haciendo trampa dijo el que daba las órdenes,0,65
-1993,picón,"El picón eres tú, que cuando pierdes haces trampa gritó Joaquín",0,65
+1993,picón,"El picón eres tú, que cuando pierdes haces trampa ",3,65
 1046,loco,"Así que crees que haciéndote el loco nos vas a cojudear, Trinidad",0,65
 1253,nota,Su empleado hacía el trabajo de la notaría y le robaba sin piedad,0,65
 1253,nota,Pero a medio surco empezó a notar que las manos le ardían un poco,0,65
 1954,blanca,Los grandes senos palpitaban temblorosamente bajo la blanca blusa,0,65
 1781,tira,Ocho fusiles están tirados en el suelo y otro apoyado en la pared,0,65
-275,carajo,"No hay nada que hacer, carajo, algunos hemos nacido para triunfar",0,65
+275,carajo,"No hay nada que hacer, carajo, algunos hemos nacido para triunfar",1,65
 1025,lanza,Hay que saber cuáles son las fuerzas que se va a lanzar al ataque,0,65
 1968,causa,Un brindis por mi causa Caradura,1,65
 1267,ojal,"Voy a hacer que nos den unos cafés, ojalá esté despierta Anatolia",0,65
@@ -2654,7 +2654,7 @@ id_slang,slang,text,label,char_count
 2115,habla,"Eres increíble, mamá, no puedes pasarte un día sin hablar con Irma",0,66
 893,hermano,"¡Lindo, hermano, lindo! Creo que algunas veces hasta mi madre duda",0,66
 2294,plata,"""No sé, dijo él, eso depende de ' la plata que tenga en el momento",0,66
-136,bestia,"Página 62  Yo sé, mi amor, tu papá es una bestia machista dijo",0,66
+136,bestia,"Yo sé, mi amor, tu papá es una bestia machista ",3,66
 1253,nota,Se notaban los ademanes que hacía el Fiero al discutir con Rosendo,0,66
 1432,piojo,Tú has dicho que se están comiendo ya a los piojos de los muertos,0,66
 1355,pega,Tú tienes que pegarme en cualquier parte de la cintura para arriba,0,66
@@ -2768,7 +2768,7 @@ id_slang,slang,text,label,char_count
 2285,mechar,¿Tienes miedo de mechar? ,3,67
 1355,pega,"Un día, uno de los bandoleros le quiso pegar y el Fiero lo defendió",0,67
 2288,nica,"Buenas, soy Nicanor López de Romaña, el papá de Alexandra escuchó",0,67
-1966,calato,"No hay nada más rico que bañarse calato en el río dijo, sonriendo",0,67
+1966,calato,No hay nada más rico que bañarse calato en el río ,1,67
 61,ahorita,"me voy a cansar, yo ahorita me rayo y comienzo a buscar otro marido",0,67
 893,hermano,trabajaba y paraba la olla éramos siete hermanos y yo era el mayor,0,67
 2115,habla,"Se me acercó despacito y me dijo: ""vamos al baño para hablar mejor""",0,67
@@ -2779,7 +2779,7 @@ id_slang,slang,text,label,char_count
 2236,tranqui,"Esta vez, cuando fui relevado por Romero, me había tranquilizado ya",0,67
 673,emilio,"Por la candidatura de don Emilio Arévalo, el amigo de su papá, niño",0,67
 258,cantar,"Si tú me matas, se pondrán tristes y ya no querrán bailar ni cantar",0,67
-988,jodido,Basta que uno esté jodido para que los amigos le vuelvan la espalda,0,67
+988,jodido,Basta que uno esté jodido para que los amigos le vuelvan la espalda,3,67
 1889,vivo,"Sabía que estabas vivo, pero medio muerto de hambre dijo Espina ",0,67
 893,hermano,Él refería que vio morir a un hermano bajo los efectos de la picada,0,67
 636,depa,"No bien llegó a su departamento, Joaquín abrió la maleta de su madre",0,68
@@ -2861,7 +2861,7 @@ id_slang,slang,text,label,char_count
 1237,negro,"Una vez lo encontraron afeitándose la frente, el negro Vallano, creo",0,68
 414,chispas,No vas a ser tan bruto de dársela a una de diez se rió el Chispas,0,68
 1505,punto,"Levantaba la vista: nubes grises por todas partes, ni un punto claro",0,68
-1248,no pasa nada,Duerme princesa y no te preocupes que a lo mejor mañana no pasa nada,0,68
+1248,no pasa nada,Duerme princesa y no te preocupes que a lo mejor mañana no pasa nada,1,68
 1781,tira,"¿Entendido? Los tiradores saltan y progresan diez metros, se arrojan",0,68
 1298,palla,"A su lado, formaban tres montones los pallares, frejoles y chiclayos",0,68
 2115,habla,-¿Estoy loco o alguien habla en la formación? - pregunta el teniente,0,68
@@ -2919,7 +2919,7 @@ id_slang,slang,text,label,char_count
 803,fundillo,Ambrosio se había tocado el fundillo: comprarían lo que hiciera falta,0,69
 1738,tanta,¿De dónde sacaste tanta plata? le había preguntado Amalia esa noche,0,69
 414,chispas,No se van a acostumbrar nunca y lo sabes muy bien dijo el Chispas ,0,69
-2317,me llega al pincho,  ¿A qué hora llega ese Misterio? Me llega al pincho ese huevón,0,69
+2317,me llega al pincho,  ¿A qué hora llega ese Misterio? Me llega al pincho ese huevón,3,69
 1318,parado,"Y encima se te ha parado gritó Gustavo, haciendo una mueca de asco",0,69
 1046,loco,"Ni que estuviera loco para meterme en otro negocio de funerarias, don",0,69
 1111,mano,"Se dieron la mano, pero el doctor Arbeláez no se levantó a despedirlo",0,69
