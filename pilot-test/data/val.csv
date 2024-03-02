@@ -1,36 +1,36 @@
 text,label,label_name,tokenized_text,sent_token_length,sent_bert_token_length,char_count,Character Count
 Pero si me ampayan me pueden botar,0,Negative,Pero si me ampayan me pueden botar,7,9,35,35
 ya soy muy viejo,1,Neutral,ya soy muy viejo,4,4,16,16
-No estoy enojado con los viejos ni con el Chispas,1,Neutral,No estoy enojado con los viejos ni con el Chispas,10,10,49,49
+"Las chinas caminaban detrás, a prudente distancia",1,Neutral,"Las chinas caminaban detrás, a prudente distancia",7,11,49,49
 "Cómo quieres te entienda, carajo",0,Negative,"Cómo quieres te entienda, carajo",5,6,32,32
-Que Bola de Oro y la loca arreglen sus líos solos,1,Neutral,Que Bola de Oro y la loca arreglen sus líos solos,11,13,49,49
+Nos quedamos con la cabeza y te regalamos la cola,1,Neutral,Nos quedamos con la cabeza y te regalamos la cola,10,11,49,49
 Nunca me ha gustado ser negro,0,Negative,Nunca me ha gustado ser negro,6,6,29,29
 El Bebe anda medio loco,0,Negative,El Bebe anda medio loco,5,5,23,23
 Ahorita vengo,1,Neutral,Ahorita vengo,2,2,13,13
 Vamos a poner a un huevón más y nos vamos,0,Negative,Vamos a poner a un huevón más y nos vamos,10,11,41,41
 A poco escuchóse el rumor de bestias al galope,1,Neutral,A poco escuchóse el rumor de bestias al galope,9,13,46,46
-"Todos los fines de semana, una pichanga sin falta ",1,Neutral,"Todos los fines de semana, una pichanga sin falta ",10,12,52,52
+"Todos los fines de semana, una pichanga sin falta",1,Neutral,"Todos los fines de semana, una pichanga sin falta",9,11,49,49
 Ya me pusiste al palo,2,Positive,Ya me pusiste al palo,5,5,21,21
 Estaba templado de sus tetas,2,Positive,Estaba templado de sus tetas,5,6,28,28
 "Pero ella dice que le gustas, por loco, por huraño",2,Positive,"Pero ella dice que le gustas, por loco, por huraño",10,12,50,50
 "Me apena, porque también somos viejos amigos",0,Negative,"Me apena, porque también somos viejos amigos",7,8,44,44
-A dejarte embaucar por los vagos y los resentidos,1,Neutral,A dejarte embaucar por los vagos y los resentidos,9,12,49,49
+"Este viejo y yo somos hermanos, desde hace siglos",1,Neutral,"Este viejo y yo somos hermanos, desde hace siglos",9,9,49,49
 No quiero pasarme de conchudo,1,Neutral,No quiero pasarme de conchudo,5,6,29,29
-"Yo sé, mi amor, tu papá es una bestia machista ",0,Negative,"Yo sé, mi amor, tu papá es una bestia machista ",11,11,49,49
-lo vamos a guardar un par de semanas en otro lado,1,Neutral,lo vamos a guardar un par de semanas en otro lado,11,11,49,49
-"Y Aguirre se le vino encima y le sacó la mierda, porque Germancito es chato y no sabe mechar",0,Negative,"Y Aguirre se le vino encima y le sacó la mierda, porque Germancito es chato y no sabe mechar",19,21,93,93
+"Yo sé, mi amor, tu papá es una bestia machista",0,Negative,"Yo sé, mi amor, tu papá es una bestia machista",10,10,46,46
+A dejarte embaucar por los vagos y los resentidos,1,Neutral,A dejarte embaucar por los vagos y los resentidos,9,12,49,49
+"Y Aguirre se le vino encima y le sacó la mierda, porque Germancito es chato y no sabe mechar",0,Negative,"Y Aguirre se le vino encima y le sacó la mierda, porque Germancito es chato y no sabe mechar",19,21,92,92
 yo soy Tyson y no le tengo miedo a ningún huevón,0,Negative,yo soy Tyson y no le tengo miedo a ningún huevón,11,13,48,48
-Joaquín no soportó escuchar a su padre roncando,1,Neutral,Joaquín no soportó escuchar a su padre roncando,8,10,47,47
+"Es elegante, las canas le sientan",1,Neutral,"Es elegante, las canas le sientan",6,7,33,33
 estoy voladazo,0,Negative,estoy voladazo,2,4,14,14
 "(Va hacia CARLOS) A ti te quería ver, conchatumadre",0,Negative,"(Va hacia CARLOS) A ti te quería ver, conchatumadre",9,13,51,51
 Joder cabros es más bacán,0,Negative,Joder cabros es más bacán,5,7,25,25
 Habían roto un vidrio,0,Negative,Habían roto un vidrio,4,4,21,21
 "Piensa: debe ser rico llegar a tu casa y que tu esposa te prepare una buena comida, que tenga tus camisas planchaditas, que te corte las uñas y te eche talquito en los huevos, que tus chibolos jueguen contigo y te hagan cagar de risa",2,Positive,"Piensa: debe ser rico llegar a tu casa y que tu esposa te prepare una buena comida, que tenga tus camisas planchaditas, que te corte las uñas y te eche talquito en los huevos, que tus chibolos jueguen contigo y te hagan cagar de risa",45,52,233,233
 "Qué chucha, ¿no? Da igual",0,Negative,"Qué chucha, ¿no? Da igual",5,6,25,25
-"¿Pim manchachinku, merdas? repitió la pregunta",1,Neutral,"¿Pim manchachinku, merdas? repitió la pregunta",6,13,48,48
+"Lo estrictos que son los gringos, habrase visto",1,Neutral,"Lo estrictos que son los gringos, habrase visto",8,11,47,47
 "Calla, rosquete gritó Gustavo",0,Negative,"Calla, rosquete gritó Gustavo",4,7,32,32
-"Tengo que confesarte que eres más churro de lo que Alexandra me había contado le dijo Adriana a Joaquín, cuando el mozo se retiró, tras anotar el pedido",2,Positive,"Tengo que confesarte que eres más churro de lo que Alexandra me había contado le dijo Adriana a Joaquín, cuando el mozo se retiró, tras anotar el pedido",28,34,154,154
-"¿Qué es un cacanero? Enséñame a aprender, Pedro",0,Negative,"¿Qué es un cacanero? Enséñame a aprender, Pedro",8,15,48,48
+"Tengo que confesarte que eres más churro de lo que Alexandra me había contado le dijo Adriana a Joaquín, cuando el mozo se retiró, tras anotar el pedido",2,Positive,"Tengo que confesarte que eres más churro de lo que Alexandra me había contado le dijo Adriana a Joaquín, cuando el mozo se retiró, tras anotar el pedido",28,34,152,152
+"¿Qué es un cacanero? Enséñame a aprender, Pedro",0,Negative,"¿Qué es un cacanero? Enséñame a aprender, Pedro",8,15,47,47
 Cuando lo dejaban encerrado se ponía como loco,0,Negative,Cuando lo dejaban encerrado se ponía como loco,8,9,46,46
 ahorita llega,1,Neutral,ahorita llega,2,2,13,13
 No es mi hembrita,1,Neutral,No es mi hembrita,4,6,17,17
@@ -42,7 +42,7 @@ Bailaron cogidos de la cintura,2,Positive,Bailaron cogidos de la cintura,5,7,30,
 Disfruta huevón,2,Positive,Disfruta huevón,2,3,15,15
 "Vendría disfrazada de vieja, a pie o a caballo",1,Neutral,"Vendría disfrazada de vieja, a pie o a caballo",9,10,46,46
 "Y nos mandarían a los cachacos, señor",1,Neutral,"Y nos mandarían a los cachacos, señor",7,9,37,37
-EL BURRO:  No sabía que teníamos que ir al Lolo,1,Neutral,EL BURRO:  No sabía que teníamos que ir al Lolo,10,13,47,47
+"Elena, encima de la vieja ley, agrega su bondad",1,Neutral,"Elena, encima de la vieja ley, agrega su bondad",9,11,47,47
 Puede costarle caro,0,Negative,Puede costarle caro,3,4,19,19
 Fue con un pata del gimnasio dijo Gonzalo,1,Neutral,Fue con un pata del gimnasio dijo Gonzalo,8,8,44,44
 Después de una pichanga siempre terminas llorando,0,Negative,Después de una pichanga siempre terminas llorando,7,9,49,49
@@ -51,17 +51,17 @@ nunca he caído en cana,2,Positive,nunca he caído en cana,5,5,22,22
 Todos son chibolos,1,Neutral,Todos son chibolos,3,5,18,18
 Mil soles al que gane la mechadera,1,Neutral,Mil soles al que gane la mechadera,7,8,34,34
 "Buenos días, buenas tardes, y el Serrano lo mismo",0,Negative,"Buenos días, buenas tardes, y el Serrano lo mismo",9,9,49,49
-"Nadie se mete a lesbiana o maricón, Alexandra",0,Negative,"Nadie se mete a lesbiana o maricón, Alexandra",8,10,46,46
-Vez que veo a una vieja me acuerdo de mi abuela,1,Neutral,Vez que veo a una vieja me acuerdo de mi abuela,11,11,47,47
+"Nadie se mete a lesbiana o maricón, Alexandra",0,Negative,"Nadie se mete a lesbiana o maricón, Alexandra",8,10,45,45
+EL BURRO:  No sabía que teníamos que ir al Lolo,1,Neutral,EL BURRO:  No sabía que teníamos que ir al Lolo,10,13,47,47
 Cómo puede ser tan hijo de puta de hablar así,0,Negative,Cómo puede ser tan hijo de puta de hablar así,10,10,45,45
 "No hay nada que hacer, carajo, algunos hemos nacido para triunfar",2,Positive,"No hay nada que hacer, carajo, algunos hemos nacido para triunfar",11,11,65,65
-Concluyó la danza con una fuga de ritmo vivo,1,Neutral,Concluyó la danza con una fuga de ritmo vivo,9,10,46,46
-Después le pregunté si conocía al flaco Higueras,1,Neutral,Después le pregunté si conocía al flaco Higueras,8,10,48,48
+Concluyó la danza con una fuga de ritmo vivo,1,Neutral,Concluyó la danza con una fuga de ritmo vivo,9,10,44,44
+Casi siempre iba al gimnasio después del colegio,1,Neutral,Casi siempre iba al gimnasio después del colegio,8,8,48,48
 Solo los cabros regresan,0,Negative,Solo los cabros regresan,4,5,24,24
 "Escúchame bien, serrano conchatumadre",0,Negative,"Escúchame bien, serrano conchatumadre",4,8,37,37
 ta huevón éste,0,Negative,ta huevón éste,3,4,15,15
 Te caería bien,2,Positive,Te caería bien,3,4,14,14
-Pensé que a lo mejor seguías empinchado conmigo,1,Neutral,Pensé que a lo mejor seguías empinchado conmigo,8,11,47,47
+"¿Ah, sí? Creo que lo vi una noche en el Solari",1,Neutral,"¿Ah, sí? Creo que lo vi una noche en el Solari",11,14,46,46
 "Chau, cojo",0,Negative,"Chau, cojo",2,3,10,10
 Y tú no seas mañoso,0,Negative,Y tú no seas mañoso,5,7,20,20
 Ordóñez gritó: -Boten esa vaina,0,Negative,Ordóñez gritó: -Boten esa vaina,5,11,31,31
@@ -70,41 +70,41 @@ Joaquín sacó su carabina y le apuntó a la ardilla,0,Negative,Joaquín sacó s
 "Si necesitara plata te hubiera pedido, papá",1,Neutral,"Si necesitara plata te hubiera pedido, papá",7,9,44,44
 así que estamos parches,1,Neutral,así que estamos parches,4,5,23,23
 "Los perros, carajo, se las comieron los perros",0,Negative,"Los perros, carajo, se las comieron los perros",8,9,46,46
-(Ríe forzado) He comprado pollito y una gaseosa,1,Neutral,(Ríe forzado) He comprado pollito y una gaseosa,8,14,47,47
-"No es por nada, pero estás tronado dijo Popeye",1,Neutral,"No es por nada, pero estás tronado dijo Popeye",9,12,49,49
+Lo Página 217  he entrevistado una vez y punto,1,Neutral,Lo Página 217  he entrevistado una vez y punto,9,12,46,46
+Estaba cambiando de canales cuando sonó el timbre,1,Neutral,Estaba cambiando de canales cuando sonó el timbre,8,8,49,49
 Llegué a darle un puntapié al hijo del Comandante,0,Negative,Llegué a darle un puntapié al hijo del Comandante,9,11,49,49
 "Suéltalo pe, conchatumadre",0,Negative,"Suéltalo pe, conchatumadre",3,8,27,27
 Tenía los ojos achinados y los labios rajados,0,Negative,Tenía los ojos achinados y los labios rajados,8,11,45,45
 Tratarían de sacarme plata los pendejos,0,Negative,Tratarían de sacarme plata los pendejos,6,7,39,39
-Viejos camiones pasaban por la carretera a Lima,1,Neutral,Viejos camiones pasaban por la carretera a Lima,8,9,47,47
+"Bueno, ya no hay cola, voy a tomar el colectivo",1,Neutral,"Bueno, ya no hay cola, voy a tomar el colectivo",10,11,47,47
 "Quemaban basuras, cenizas y gallinazos volando",1,Neutral,"Quemaban basuras, cenizas y gallinazos volando",6,10,46,46
 Hoy reventamos a esos conchasumadres,0,Negative,Hoy reventamos a esos conchasumadres,5,9,36,36
 Más bien la pinga se me achica,0,Negative,Más bien la pinga se me achica,7,9,30,30
 Gratos eran los duros senos de pezones alertas,1,Neutral,Gratos eran los duros senos de pezones alertas,8,12,46,46
-"Pero me dijiste que tú no me ibas a pegar, papi",1,Neutral,"Pero me dijiste que tú no me ibas a pegar, papi",11,12,48,48
+"¿Me estás mintiendo, no? Tú me prometiste, flaco",1,Neutral,"¿Me estás mintiendo, no? Tú me prometiste, flaco",8,11,48,48
 No había resultado tan cojudo como creíamos,2,Positive,No había resultado tan cojudo como creíamos,7,10,43,43
 "zambo, tú tienes que ser grone",2,Positive,"zambo, tú tienes que ser grone",6,8,30,30
 Sino que este loco siempre hace las cosas mal,0,Negative,Sino que este loco siempre hace las cosas mal,9,9,45,45
 Ahorita salgo,1,Neutral,Ahorita salgo,2,2,13,13
-"Era una casa vieja y raquítica, casi sin muebles",1,Neutral,"Era una casa vieja y raquítica, casi sin muebles",9,11,48,48
-"Bueno, si yo viviera en Miami no lo pensaría dos veces y me vendría a esta islita que me parece el deshueve",2,Positive,"Bueno, si yo viviera en Miami no lo pensaría dos veces y me vendría a esta islita que me parece el deshueve",22,26,108,108
-Tenía miedo que la vieja me largara dijo Queta,1,Neutral,Tenía miedo que la vieja me largara dijo Queta,9,11,49,49
+"Lo que es yo, estoy chocha con mi Sammy",1,Neutral,"Lo que es yo, estoy chocha con mi Sammy",9,11,39,39
+"Bueno, si yo viviera en Miami no lo pensaría dos veces y me vendría a esta islita que me parece el deshueve",2,Positive,"Bueno, si yo viviera en Miami no lo pensaría dos veces y me vendría a esta islita que me parece el deshueve",22,26,107,107
+"Te volviste viejo, pensaba, un día te vas a morir",1,Neutral,"Te volviste viejo, pensaba, un día te vas a morir",10,11,49,49
 No te hagas el loco,0,Negative,No te hagas el loco,5,5,20,20
 Tú tienes buena labia,2,Positive,Tú tienes buena labia,4,5,21,21
-Dile a Bola de Oro que a mí no me meta en sus líos,1,Neutral,Dile a Bola de Oro que a mí no me meta en sus líos,14,15,50,50
+No te puede haber dicho esa canallada dijo ella,1,Neutral,No te puede haber dicho esa canallada dijo ella,9,10,47,47
 suave que te desintegras,0,Negative,suave que te desintegras,4,7,24,24
-"¿Tú crees que podría chambear en tu negocio? ¿Me podrías ayudar a conseguir una chamba, Pedro?",1,Neutral,"¿Tú crees que podría chambear en tu negocio? ¿Me podrías ayudar a conseguir una chamba, Pedro?",16,21,95,95
-Alfonso prendió el troncho y dio un par de pitadas,1,Neutral,Alfonso prendió el troncho y dio un par de pitadas,10,12,50,50
+"¿Tú crees que podría chambear en tu negocio? ¿Me podrías ayudar a conseguir una chamba, Pedro?",1,Neutral,"¿Tú crees que podría chambear en tu negocio? ¿Me podrías ayudar a conseguir una chamba, Pedro?",16,21,94,94
+Yo si tuviera plata me iría del Perú mañana mismo,1,Neutral,Yo si tuviera plata me iría del Perú mañana mismo,10,10,49,49
 "Si quieres ser un rosquete, jódete, pues",0,Negative,"Si quieres ser un rosquete, jódete, pues",7,11,40,40
 No vamos a fumar ningún troncho dijo él,0,Negative,No vamos a fumar ningún troncho dijo él,8,9,41,41
-"Una vida de lo más bohemia, flaco dijo Popeye",1,Neutral,"Una vida de lo más bohemia, flaco dijo Popeye",9,13,48,48
+Que te peleaste con el viejo y te mandaste mudar,1,Neutral,Que te peleaste con el viejo y te mandaste mudar,10,12,48,48
 A los curas no se les para la pichula,0,Negative,A los curas no se les para la pichula,9,10,37,37
 Ese es mi cachorro,2,Positive,Ese es mi cachorro,4,4,18,18
 "Pero no pueden, pues, porque ellos son cholos, brownies, huanacos",0,Negative,"Pero no pueden, pues, porque ellos son cholos, brownies, huanacos",10,16,65,65
 "Estabas en piyama, no encontrabas el calzoncillo se te enredaba el pantalón y cuando le escribías un papelito a Ana te comenzó a temblar la mano, Zavalita",1,Neutral,"Estabas en piyama, no encontrabas el calzoncillo se te enredaba el pantalón y cuando le escribías un papelito a Ana te comenzó a temblar la mano, Zavalita",27,38,154,154
 el periodismo ha hecho un chongo con el caso del huevón ese,0,Negative,el periodismo ha hecho un chongo con el caso del huevón ese,12,13,59,59
-"Y, además, se notaba que le gustaba lo que hacía",1,Neutral,"Y, además, se notaba que le gustaba lo que hacía",10,11,48,48
+Toda la movida va de frente a la cancha,1,Neutral,Toda la movida va de frente a la cancha,9,9,39,39
 entramos a mi depa,1,Neutral,entramos a mi depa,4,5,18,18
-"Eres un chancho gritó Rocío, también riéndose",1,Neutral,"Eres un chancho gritó Rocío, también riéndose",7,12,47,47
-"El chofer era un negro grandote, recontrapendejo",0,Negative,"El chofer era un negro grandote, recontrapendejo",7,12,49,49
-¿Sacarlo del Ministerio? dijo el doctor Lora,1,Neutral,¿Sacarlo del Ministerio? dijo el doctor Lora,7,11,47,47
+Se levantó secándose las lágrimas con el poncho,1,Neutral,Se levantó secándose las lágrimas con el poncho,8,10,47,47
+"El chofer era un negro grandote, recontrapendejo",0,Negative,"El chofer era un negro grandote, recontrapendejo",7,12,48,48
+"Mamá, Peter se va a quedar a dormir aquí",1,Neutral,"Mamá, Peter se va a quedar a dormir aquí",9,9,40,40
