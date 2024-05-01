@@ -13,3 +13,4 @@ ipython_config.py
 
 #data
 text-extraction/facebook/*
+text-extraction/raw-data/*
